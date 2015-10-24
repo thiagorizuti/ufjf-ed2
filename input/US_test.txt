@@ -1,0 +1,1000 @@
+5117892	Franklin State Forest	Franklin State Forest		44.6995	-74.426	V	FRST	US		NY	033			0	486	488	America/New_York	2006-01-15
+5117893	Franklin State Forest Number Four	Franklin State Forest Number Four		44.89672	-74.59296	V	FRST	US		NY	033			0	76	75	America/New_York	2006-01-15
+5117894	Franklin State Forest Number Nine	Franklin State Forest Number Nine		44.68617	-74.54823	V	FRST	US		NY	033			0	373	375	America/New_York	2006-01-15
+5117895	Franklin State Forest Number One	Franklin State Forest Number One		44.71199	-74.21821	V	FRST	US		NY	033			0	398	398	America/New_York	2006-01-15
+5117896	Franklin State Forest Number Six	Franklin State Forest Number Six		44.97782	-74.29575	V	FRST	US		NY	033			0	76	77	America/New_York	2006-01-15
+5117897	Franklin State Forest Number Three	Franklin State Forest Number Three		44.74728	-74.35461	V	FRST	US		NY	033			0	427	428	America/New_York	2006-01-15
+5117898	Franklin State Forest Number Two	Franklin State Forest Number Two		44.88755	-74.61685	V	FRST	US		NY	033			0	80	84	America/New_York	2006-01-15
+5117899	Town of Franklin	Town of Franklin		42.33351	-75.11118	A	ADMD	US		NY	025			0	464	474	America/New_York	2013-03-08
+5117900	Town of Franklin	Town of Franklin		44.52734	-74.0506	A	ADMD	US		NY	033			0	542	541	America/New_York	2013-03-08
+5117901	Franklinton	Franklinton		42.52091	-74.30347	P	PPL	US		NY	095			0	382	388	America/New_York	2006-01-15
+5117902	Franklinville	Franklinville		42.33701	-78.45808	P	PPL	US		NY	009			1740	485	487	America/New_York	2011-05-14
+5117903	Town of Franklinville	Town of Franklinville		42.30543	-78.49987	A	ADMD	US		NY	009			0	607	610	America/New_York	2013-03-08
+5117907	Franklin Hall	Franklin Hall		40.91028	-73.77861	S	BLDG	US		NY	119			0	24	31	America/New_York	2006-01-15
+5121167	Home of Franklin D Roosevelt National Historic Site	Home of Franklin D Roosevelt National Historic Site		41.76704	-73.93819	L	PRK	US		NY	027			0	16	29	America/New_York	2006-01-15
+5129044	North Franklin	North Franklin		42.3923	-75.08544	P	PPL	US		NY	025			0	402	404	America/New_York	2006-01-15
+5147058	Benjamin Franklin Elementary School	Benjamin Franklin Elementary School		41.4345	-81.69457	S	SCH	US		OH	035			0	221	224	America/New_York	2010-09-05
+5147059	Benjamin Franklin Elementary School	Benjamin Franklin Elementary School		41.05339	-83.66577	S	SCH	US		OH	063			0	236	237	America/New_York	2006-01-15
+5150270	Church of God of Franklin County	Church of God of Franklin County		40.01451	-82.9774	S	CH	US		OH	049			0	262	262	America/New_York	2007-02-14
+5155061	Franklin	Franklin		40.21396	-81.8818	P	PPL	US		OH	031			0	232	231	America/New_York	2006-01-15
+5155062	Franklin Avenue Historic District	Franklin Avenue Historic District		41.48477	-81.71874	L	PRK	US		OH	035			0	207	208	America/New_York	2006-01-15
+5155063	Franklin Boulevard Methodist Church (historical)	Franklin Boulevard Methodist Church (historical)		41.48672	-81.71235	S	CH	US		OH	035			0	210	211	America/New_York	2010-09-05
+5155064	Franklin Cemetery	Franklin Cemetery		40.20007	-81.84596	S	CMTY	US		OH	031			0	260	259	America/New_York	2006-01-15
+5155065	Franklin Cemetery	Franklin Cemetery		40.1809	-81.90069	S	CMTY	US		OH	031			0	239	239	America/New_York	2006-01-15
+5155066	Franklin Cemetery	Franklin Cemetery		41.5295	-83.85466	S	CMTY	US		OH	095			0	205	217	America/New_York	2006-01-15
+5155067	Franklin Methodist Church	Franklin Methodist Church		40.20007	-81.84457	S	CH	US		OH	031			0	261	262	America/New_York	2007-02-14
+5155068	Franklin Church	Franklin Church		40.09812	-82.8124	S	CH	US		OH	049			0	313	314	America/New_York	2006-01-15
+5155069	Franklin Church	Franklin Church		40.85839	-82.48072	S	CH	US		OH	139			0	324	324	America/New_York	2006-01-15
+5155070	Franklin Church Cemetery	Franklin Church Cemetery		40.85867	-82.48128	S	CMTY	US		OH	139			0	324	324	America/New_York	2006-01-15
+5155071	Franklin Circle Christian Church	Franklin Circle Christian Church		41.487	-81.70874	S	CH	US		OH	035			0	209	216	America/New_York	2010-09-05
+5155072	Franklin County Fairgrounds	Franklin County Fairgrounds		40.03451	-83.15352	S		US		OH	049			0	284	281	America/New_York	2010-02-17
+5155073	Franklin D Roosevelt Academy	Franklin D Roosevelt Academy		41.53528	-81.61083	S	SCH	US		OH	035			0	190	194	America/New_York	2010-02-19
+5155074	Franklin Elementary School	Franklin Elementary School		40.84672	-84.33745	S	SCH	US		OH	003			0	235	236	America/New_York	2006-01-15
+5155075	Franklin Elementary School	Franklin Elementary School		40.68062	-80.88786	S	SCH	US		OH	029			0	348	348	America/New_York	2010-09-05
+5155076	Franklin Elementary School	Franklin Elementary School		41.48033	-81.7868	S	SCH	US		OH	035			0	218	216	America/New_York	2010-09-05
+5155077	Franklin Elementary School	Franklin Elementary School		41.62116	-84.32523	S	SCH	US		OH	051			0	224	224	America/New_York	2006-01-15
+5155078	Franklin Elementary School	Franklin Elementary School		41.35588	-82.1132	S	SCH	US		OH	093			0	223	224	America/New_York	2010-09-05
+5155079	Franklin Elementary School	Franklin Elementary School		41.64394	-83.52438	S	SCH	US		OH	095			0	184	184	America/New_York	2006-01-15
+5155080	Franklin Elementary School	Franklin Elementary School		41.01978	-81.72791	S	SCH	US		OH	103			0	346	347	America/New_York	2006-01-15
+5155081	Franklin Elementary School	Franklin Elementary School		40.48921	-84.5419	S	SCH	US		OH	107			0	268	270	America/New_York	2006-01-15
+5155082	Franklin Elementary School	Franklin Elementary School		41.17117	-81.35205	S	SCH	US		OH	133			0	322	322	America/New_York	2006-01-15
+5155083	Franklin Elementary School	Franklin Elementary School		40.78311	-81.50679	S	SCH	US		OH	151			0	312	317	America/New_York	2010-09-05
+5155084	Franklin Elementary School	Franklin Elementary School		40.92506	-81.09315	S	SCH	US		OH	151			0	322	325	America/New_York	2006-01-15
+5155085	Franklin Elementary School	Franklin Elementary School		40.8656	-84.57912	S	SCH	US		OH	161			0	235	236	America/New_York	2006-01-15
+5155086	Franklin Elementary School	Franklin Elementary School		40.71172	-81.92125	S	SCH	US		OH	169			0	366	370	America/New_York	2006-01-15
+5155087	Franklin Hall	Franklin Hall		41.15172	-81.35094	S	BLDG	US		OH	133			0	340	345	America/New_York	2006-01-15
+5155088	Franklin Junction	Franklin Junction		41.672	-84.41439	P	PPL	US		OH	171			0	256	255	America/New_York	2006-01-15
+5155089	Franklin Junior High School	Franklin Junior High School		40.04423	-82.39515	S	SCH	US		OH	089			0	274	273	America/New_York	2006-01-15
+5155090	Franklin Number 125 Mine	Franklin Number 125 Mine		40.17285	-80.98732	S	MN	US		OH	067			0	348	344	America/New_York	2006-01-15
+5155091	Franklin Number 65 Mine	Franklin Number 65 Mine		40.19868	-81.01649	S	MN	US		OH	067			0	369	376	America/New_York	2006-01-15
+5155092	Franklin Park Mall Shopping Center	Franklin Park Mall Shopping Center		41.69477	-83.64049	S	MALL	US		OH	095			0	194	199	America/New_York	2010-09-05
+5155093	Franklin Park Plaza Shopping Center	Franklin Park Plaza Shopping Center		41.68172	-83.60549	S	MALL	US		OH	095			0	187	188	America/New_York	2006-01-15
+5155094	Franklin School	Franklin School		41.59588	-81.53151	S	SCH	US		OH	035			0	186	187	America/New_York	2006-01-15
+5155095	Franklin School	Franklin School		40.45701	-80.6073	S	SCH	US		OH	081			0	222	222	America/New_York	2006-01-15
+5155096	Franklin School (historical)	Franklin School (historical)		40.00478	-83.79604	S	SCH	US		OH	023			0	296	296	America/New_York	2006-01-15
+5155097	Franklin School (historical)	Franklin School (historical)		41.53116	-83.85466	S	SCH	US		OH	095			0	206	217	America/New_York	2010-09-05
+5155098	Franklin School (historical)	Franklin School (historical)		40.48671	-84.47745	S	SCH	US		OH	107			0	270	268	America/New_York	2006-01-15
+5155099	Franklin School (historical)	Franklin School (historical)		40.63034	-81.55762	S	SCH	US		OH	157			0	295	296	America/New_York	2010-09-05
+5155100	Franklin Square	Franklin Square		40.85617	-80.79175	P	PPL	US		OH	029			0	323	325	America/New_York	2010-09-05
+5155101	Franklin Square	Franklin Square		40.4909	-81.45206	L	PRK	US		OH	157			0	274	274	America/New_York	2010-09-05
+5155102	Franklin Square Post Office (historical)	Franklin Square Post Office (historical)		40.85562	-80.79147	S	PO	US		OH	029			0	324	325	America/New_York	2006-01-15
+5155103	Franklin Station (historical)	Franklin Station (historical)		40.20702	-81.8793	S		US		OH	031			0	231	229	America/New_York	2013-03-08
+5155104	Township of Franklin	Township of Franklin	Franklin Township	40.68476	-80.8794	A	ADMD	US		OH	029			0	360	360	America/New_York	2013-03-08
+5155105	Township of Franklin	Township of Franklin	Franklin Township	40.19245	-81.85556	A	ADMD	US		OH	031			0	281	278	America/New_York	2013-03-08
+5155106	Township of Franklin	Township of Franklin	Franklin Township	40.05027	-84.46861	A	ADMD	US		OH	037			0	309	308	America/New_York	2013-03-08
+5155107	Township of Franklin	Township of Franklin	Franklin Township	41.61288	-84.30868	A	ADMD	US		OH	051			0	218	216	America/New_York	2013-03-08
+5155108	Township of Franklin	Township of Franklin	Franklin Township	40.33516	-81.22757	A	ADMD	US		OH	067			0	370	368	America/New_York	2013-03-08
+5155109	Township of Franklin	Township of Franklin	Franklin Township	40.48389	-84.51328	A	ADMD	US		OH	107			0	271	271	America/New_York	2013-03-08
+5155110	Township of Franklin	Township of Franklin	Franklin Township	40.52443	-82.70784	A	ADMD	US		OH	117			0	399	396	America/New_York	2013-03-08
+5155111	Township of Franklin	Township of Franklin	Franklin Township	41.17885	-81.33856	A	ADMD	US		OH	133			0	319	325	America/New_York	2013-03-08
+5155112	Township of Franklin	Township of Franklin	Franklin Township	40.86298	-82.53521	A	ADMD	US		OH	139			0	345	346	America/New_York	2013-03-08
+5155113	Township of Franklin	Township of Franklin	Franklin Township	40.35908	-84.16936	A	ADMD	US		OH	149			0	304	303	America/New_York	2013-03-08
+5155114	Township of Franklin	Township of Franklin	Franklin Township	40.95728	-81.57623	A	ADMD	US		OH	153			0	345	354	America/New_York	2010-09-05
+5155115	Township of Franklin	Township of Franklin	Franklin Township	40.59903	-81.54369	A	ADMD	US		OH	157			0	296	296	America/New_York	2013-03-08
+5155116	Township of Franklin	Township of Franklin	Franklin Township	40.71186	-81.92872	A	ADMD	US		OH	169			0	342	343	America/New_York	2013-03-08
+5155117	Franklin-Monroe Elementary School	Franklin-Monroe Elementary School		40.05088	-84.4694	S	SCH	US		OH	037			0	309	307	America/New_York	2006-01-15
+5164273	New Franklin	New Franklin		40.79839	-81.09204	P	PPL	US		OH	151			0	391	390	America/New_York	2010-09-05
+5164274	New Franklin	New Franklin		40.94172	-81.54151	P	PPL	US		OH	153			14227	333	334	America/New_York	2011-05-14
+5164275	New Franklin Cemetery	New Franklin Cemetery		40.79978	-81.09371	S	CMTY	US		OH	151			0	389	387	America/New_York	2006-01-15
+5164276	New Franklin Methodist Church	New Franklin Methodist Church		40.79867	-81.09065	S	CH	US		OH	151			0	389	386	America/New_York	2010-09-05
+5164277	New Franklin Post Office (historical)	New Franklin Post Office (historical)		40.79867	-81.09149	S	PO	US		OH	151			0	391	390	America/New_York	2006-01-15
+5164278	New Franklin School (historical)	New Franklin School (historical)		40.79784	-81.09482	S	SCH	US		OH	151			0	391	388	America/New_York	2010-09-05
+5173192	Strasburg-Franklin Elementary School	Strasburg-Franklin Elementary School		40.59756	-81.53068	S	SCH	US		OH	157			0	288	287	America/New_York	2010-09-05
+5173193	Strasburg-Franklin High School	Strasburg-Franklin High School		40.59673	-81.53068	S	SCH	US		OH	157			0	287	287	America/New_York	2006-01-15
+5176247	West Franklin Cemetery	West Franklin Cemetery		41.622	-84.39356	S	CMTY	US		OH	051			0	244	243	America/New_York	2006-01-15
+5176248	West Franklin Church	West Franklin Church		41.62255	-84.38384	S	CH	US		OH	051			0	238	239	America/New_York	2006-01-15
+5176276	West Franklin Church	West Franklin Church		41.59366	-84.37189	S	CH	US		OH	051			0	225	225	America/New_York	2010-09-05
+5179904	Ben Franklin School	Ben Franklin School		40.47535	-79.86172	S	SCH	US		PA	003			0	308	306	America/New_York	2010-09-05
+5179905	Ben Franklin School	Ben Franklin School		40.15702	-79.87282	S	SCH	US		PA	129			0	274	274	America/New_York	2010-09-05
+5179934	Benjamin Franklin Elementary School	Benjamin Franklin Elementary School		40.27092	-76.88553	S	SCH	US		PA	043			0	104	104	America/New_York	2006-01-15
+5179935	Benjamin Franklin Elementary School	Benjamin Franklin Elementary School		40.62034	-79.19142	S	SCH	US		PA	063			0	395	392	America/New_York	2010-09-05
+5179936	Benjamin Franklin High School	Benjamin Franklin High School		40.99006	-80.3359	S	SCH	US		PA	073			0	283	284	America/New_York	2010-09-05
+5179937	Benjamin Franklin School	Benjamin Franklin School		40.13733	-74.85516	S	SCH	US		PA	017			0	14	16	America/New_York	2006-01-15
+5185265	Conrail Franklin Bridge	Conrail Franklin Bridge		41.22508	-75.89409	S	BDG	US		PA	079			0	182	187	America/New_York	2006-01-15
+5187918	East Franklin	East Franklin		40.6212	-76.43051	P	PPL	US		PA	107			0	396	399	America/New_York	2006-01-15
+5187919	Township of East Franklin	Township of East Franklin	East Franklin Township	40.85544	-79.55622	A	ADMD	US		PA	005			0	383	389	America/New_York	2013-03-08
+5190322	Franklin	Franklin	Franklin,Франклин	40.3423	-78.88475	P	PPL	US		PA	021			323	381	380	America/New_York	2011-05-14
+5190323	Franklin	Franklin	FKL,Franklin,Франклин	41.39784	-79.83144	P	PPLA2	US		PA	121			6545	307	310	America/New_York	2011-05-14
+5190324	Franklin	Franklin		40.45673	-79.65977	P	PPL	US		PA	129			0	332	340	America/New_York	2010-09-05
+5190325	Franklin Area High School	Franklin Area High School		41.37034	-79.84811	S	SCH	US		PA	121			0	463	467	America/New_York	2010-09-05
+5190326	Franklin Area Middle School	Franklin Area Middle School		41.37034	-79.8495	S	SCH	US		PA	121			0	464	466	America/New_York	2010-09-05
+5190327	Franklin Cemetery	Franklin Cemetery		41.54313	-75.68519	S	CMTY	US		PA	069			0	342	344	America/New_York	2010-09-05
+5190328	Franklin Cemetery	Franklin Cemetery		41.41228	-79.82839	S	CMTY	US		PA	121			0	355	363	America/New_York	2010-09-05
+5190329	Franklin Cemetery	Franklin Cemetery		40.02174	-80.12506	S	CMTY	US		PA	125			0	296	291	America/New_York	2010-09-05
+5190330	Franklin Center	Franklin Center		41.70424	-76.57161	S		US		PA	015			0	277	277	America/New_York	2010-02-17
+5190331	Franklin Center	Franklin Center		41.93561	-80.22478	P	PPL	US		PA	049			0	373	374	America/New_York	2006-01-15
+5190332	Franklin Center Airport	Franklin Center Airport		41.92089	-80.25006	S	AIRP	US		PA	049			0	370	375	America/New_York	2010-09-05
+5190333	Franklin Church	Franklin Church		40.59757	-80.09922	S	CH	US		PA	003			0	379	374	America/New_York	2006-01-15
+5190334	Franklin Church	Franklin Church		41.28925	-76.54078	S	CH	US		PA	081			0	414	421	America/New_York	2010-09-05
+5190335	Franklin Church	Franklin Church		40.06565	-77.05526	S	CH	US		PA	133			0	180	181	America/New_York	2006-01-15
+5190336	Franklin Corners	Franklin Corners		41.90313	-75.80186	S		US		PA	115			0	467	472	America/New_York	2010-02-17
+5190337	Franklin County	Franklin County	Comte de Franklin,Comté de Franklin,Condado de Franklin,Condado han Franklin,Contea di Franklin,Franklin,Franklin Comitatus,Franklin srjan,Hrabstwo Franklin,Konteth Franklin,Quan Franklin,Quận Franklin,fu lan ke lin xian,phrankalina ka'unti,Франклин,Франклін,Ֆրանկլին շրջան,فرینکلن کاؤنٹی، پنسلوانیا,ফ্রাঙ্কলিন কাউন্টি,富蘭克林縣	39.92742	-77.72127	A	ADM2	US		PA	055			149618	211	209	America/New_York	2013-03-08
+5190338	Franklin D Roosevelt Elementary School	Franklin D Roosevelt Elementary School		40.2848	-78.45251	S	SCH	US		PA	013			0	362	362	America/New_York	2010-09-05
+5190339	Franklin Elementary School	Franklin Elementary School		40.58701	-80.09645	S	SCH	US		PA	003			0	379	375	America/New_York	2010-09-05
+5190340	Franklin Elementary School	Franklin Elementary School		40.84454	-75.68491	S	SCH	US		PA	025			0	190	191	America/New_York	2006-01-15
+5190341	Franklin Elementary School	Franklin Elementary School		40.02063	-79.71393	S	SCH	US		PA	051			0	422	423	America/New_York	2010-09-05
+5190342	Franklin Elementary School	Franklin Elementary School		40.25982	-75.62991	S	SCH	US		PA	091			0	74	80	America/New_York	2006-01-15
+5190343	Franklin Elementary School	Franklin Elementary School		40.67815	-75.48463	S	SCH	US		PA	095			0	116	115	America/New_York	2006-01-15
+5190344	Franklin Farms	Franklin Farms		40.15507	-80.27034	P	PPL	US		PA	125			0	327	328	America/New_York	2006-01-15
+5190345	Franklin Forge	Franklin Forge		40.47285	-78.23501	P	PPL	US		PA	013			0	329	317	America/New_York	2006-01-15
+5190346	Franklin Forks	Franklin Forks		41.91813	-75.84741	P	PPL	US		PA	115			0	332	338	America/New_York	2006-01-15
+5190347	Franklin Furnace	Franklin Furnace		40.9887	-76.65107	P	PPL	US		PA	093			0	158	164	America/New_York	2006-01-15
+5190348	Franklin Hall School	Franklin Hall School		40.25786	-77.19248	S	SCH	US		PA	041			0	133	133	America/New_York	2006-01-15
+5190349	Franklin Heights School	Franklin Heights School		40.83481	-75.69686	S	SCH	US		PA	025			0	169	171	America/New_York	2006-01-15
+5190350	Franklin Heliport	Franklin Heliport		41.2198	-75.88103	S	AIRH	US		PA	079			0	209	212	America/New_York	2011-03-10
+5190351	Franklin Hill Cemetery	Franklin Hill Cemetery		41.01883	-75.14363	S	CMTY	US		PA	089			0	224	229	America/New_York	2011-01-10
+5190352	Franklin Hill Church	Franklin Hill Church		41.90924	-75.80213	S	CH	US		PA	115			0	500	509	America/New_York	2006-01-15
+5190353	Franklin Hill School	Franklin Hill School		41.02343	-75.13546	S	SCH	US		PA	089			0	175	194	America/New_York	2006-01-15
+5190354	Franklin Hill School	Franklin Hill School		40.78676	-75.20323	S	SCH	US		PA	095			0	182	182	America/New_York	2006-01-15
+5190355	Franklin Hill School	Franklin Hill School		41.90952	-75.80297	S	SCH	US		PA	115			0	504	510	America/New_York	2006-01-15
+5190356	Franklin Hospital Airport	Franklin Hospital Airport		41.38339	-79.83311	S	AIRP	US		PA	121			0	440	441	America/New_York	2010-09-05
+5190357	Franklin Junction	Franklin Junction		41.22286	-75.90325	P	PPL	US		PA	079			0	173	181	America/New_York	2006-01-15
+5190358	Franklin Junction	Franklin Junction		41.21897	-75.90436	S		US		PA	079			0	186	187	America/New_York	2010-09-05
+5190359	Franklin Mall	Franklin Mall		40.1609	-80.27478	S	MALL	US		PA	125			0	316	317	America/New_York	2010-02-17
+5190360	Franklin Park	Franklin Park		40.5834	-80.08784	P	PPL	US		PA	003			13470	375	376	America/New_York	2011-05-14
+5190361	Franklin Park	Franklin Park		42.14283	-80.03895	L	PRK	US		PA	049			0	199	200	America/New_York	2010-09-05
+5190362	Franklin Park Golf Course	Franklin Park Golf Course		40.58257	-80.08228	S	RECG	US		PA	003			0	376	375	America/New_York	2010-09-05
+5190363	Franklin Pike Corners	Franklin Pike Corners		41.61339	-80.14839	P	PPL	US		PA	039			0	343	351	America/New_York	2010-09-05
+5190364	Franklin Plaza Shopping Center	Franklin Plaza Shopping Center		40.8509	-80.25978	S	MALL	US		PA	007			0	290	292	America/New_York	2010-09-05
+5190365	Franklin Regional Senior High School	Franklin Regional Senior High School		40.4259	-79.66671	S	SCH	US		PA	129			0	297	300	America/New_York	2006-01-15
+5190366	Franklin School	Franklin School		40.32507	-80.03172	S	SCH	US		PA	003			0	357	355	America/New_York	2010-09-05
+5190367	Franklin School	Franklin School		40.41896	-79.84116	S	SCH	US		PA	003			0	358	358	America/New_York	2010-09-05
+5190368	Franklin School	Franklin School		40.54288	-75.25295	S	SCH	US		PA	017			0	150	152	America/New_York	2006-01-15
+5190369	Franklin School	Franklin School		40.80593	-75.60158	S	SCH	US		PA	025			0	123	125	America/New_York	2006-01-15
+5190370	Franklin School	Franklin School		40.1026	-75.82771	S	SCH	US		PA	029			0	168	175	America/New_York	2006-01-15
+5190371	Franklin School	Franklin School		40.0223	-79.76699	S	SCH	US		PA	051			0	358	358	America/New_York	2006-01-15
+5190372	Franklin School	Franklin School		40.13924	-79.49476	S	SCH	US		PA	051			0	345	343	America/New_York	2006-01-15
+5190373	Franklin School	Franklin School		41.42258	-75.61908	S	SCH	US		PA	069			0	342	345	America/New_York	2006-01-15
+5190374	Franklin School	Franklin School		40.40203	-76.5483	S	SCH	US		PA	075			0	138	140	America/New_York	2006-01-15
+5190375	Franklin School	Franklin School		40.54538	-75.35601	S	SCH	US		PA	077			0	157	159	America/New_York	2006-01-15
+5190376	Franklin School	Franklin School		41.25702	-77.04441	S	SCH	US		PA	081			0	164	166	America/New_York	2010-09-05
+5190377	Franklin School	Franklin School		40.63287	-75.65547	S	SCH	US		PA	095			0	172	173	America/New_York	2006-01-15
+5190378	Franklin School	Franklin School		40.04206	-75.10434	S	SCH	US		PA	101			0	38	39	America/New_York	2006-01-15
+5190379	Franklin School	Franklin School		41.31787	-74.841	S	SCH	US		PA	103			0	249	261	America/New_York	2006-01-15
+5190380	Franklin Township Elementary School	Franklin Township Elementary School		40.90368	-79.98978	S	SCH	US		PA	019			0	396	395	America/New_York	2010-09-05
+5190381	Franklin Union Church	Franklin Union Church		40.82118	-79.61505	S	CH	US		PA	005			0	368	364	America/New_York	2006-01-15
+5190382	Franklin and Marshall Athletic Field	Franklin and Marshall Athletic Field		40.05469	-76.33155	L	PRK	US		PA	071			0	102	102	America/New_York	2007-06-15
+5190383	Franklin and Marshall College	Franklin and Marshall College		40.0476	-76.32051	S	SCH	US		PA	071			0	123	124	America/New_York	2006-01-15
+5190384	Borough of Franklin	Borough of Franklin		40.34171	-78.88452	A	ADMD	US		PA	021			323	387	395	America/New_York	2013-03-08
+5190385	City of Franklin	City of Franklin		41.38834	-79.83129	A	ADMD	US		PA	121			6545	418	431	America/New_York	2013-03-08
+5190386	Township of Franklin	Township of Franklin	Franklin Township	40.831	-80.20604	A	ADMD	US		PA	007			0	346	355	America/New_York	2013-03-08
+5190387	Township of Franklin	Township of Franklin	Franklin Township	41.67605	-76.59886	A	ADMD	US		PA	015			0	589	592	America/New_York	2013-03-08
+5190388	Township of Franklin	Township of Franklin	Franklin Township	40.92991	-80.01427	A	ADMD	US		PA	019			0	402	407	America/New_York	2013-03-08
+5190389	Township of Franklin	Township of Franklin	Franklin Township	40.85293	-75.66111	A	ADMD	US		PA	025			0	203	204	America/New_York	2013-03-08
+5190390	Township of Franklin	Township of Franklin	Franklin Township	40.91908	-76.4952	A	ADMD	US		PA	037			0	291	291	America/New_York	2013-03-08
+5190391	Township of Franklin	Township of Franklin	Franklin Township	41.92993	-80.21495	A	ADMD	US		PA	049			0	383	383	America/New_York	2013-03-08
+5190392	Township of Franklin	Township of Franklin	Franklin Township	40.67531	-78.06124	A	ADMD	US		PA	061			0	341	339	America/New_York	2013-03-08
+5190393	Township of Franklin	Township of Franklin	Franklin Township	41.38459	-75.89773	A	ADMD	US		PA	079			0	355	369	America/New_York	2013-03-08
+5190394	Township of Franklin	Township of Franklin	Franklin Township	41.23233	-76.58435	A	ADMD	US		PA	081			0	372	384	America/New_York	2013-03-08
+5190395	Township of Franklin	Township of Franklin	Franklin Township	40.78118	-77.06569	A	ADMD	US		PA	109			0	167	174	America/New_York	2013-03-08
+5190396	Township of Franklin	Township of Franklin	Franklin Township	41.89853	-75.82929	A	ADMD	US		PA	115			0	453	458	America/New_York	2013-03-08
+5190398	Township of Franklin	Township of Franklin	Franklin Township	40.07063	-77.07045	A	ADMD	US		PA	133			0	177	177	America/New_York	2013-03-08
+5190399	Franklindale	Franklindale		41.70285	-76.55439	P	PPL	US		PA	015			0	270	271	America/New_York	2006-01-15
+5190400	Franklintown	Franklintown		40.07676	-77.02831	P	PPL	US		PA	133			489	211	211	America/New_York	2011-05-14
+5190401	Borough of Franklintown	Borough of Franklintown		40.07604	-77.02954	A	ADMD	US		PA	133			489	213	215	America/New_York	2013-03-08
+5190402	Franklinville	Franklinville		40.64645	-78.09029	P	PPL	US		PA	061			0	276	278	America/New_York	2006-01-15
+5190403	Franklinville	Franklinville		40.17955	-75.27768	P	PPL	US		PA	091			0	102	104	America/New_York	2006-01-15
+5190404	Franklinville	Franklinville		40.01067	-75.13518	P	PPL	US		PA	101			0	30	37	America/New_York	2006-01-15
+5190405	Franklinville Cemetery	Franklinville Cemetery		40.64729	-78.09556	S	CMTY	US		PA	061			0	322	327	America/New_York	2006-01-15
+5201723	Monroe Franklin School	Monroe Franklin School		41.70508	-76.51244	S	SCH	US		PA	015			0	252	253	America/New_York	2006-01-15
+5203673	Township of North Franklin	Township of North Franklin	North Franklin Township	40.14833	-80.26332	A	ADMD	US		PA	125			0	344	346	America/New_York	2013-03-08
+5203691	North Franklin Township School	North Franklin Township School		40.15674	-80.26228	S	SCH	US		PA	125			0	348	349	America/New_York	2010-09-05
+5213045	Township of South Franklin	Township of South Franklin	South Franklin Township	40.0997	-80.29129	A	ADMD	US		PA	125			0	366	361	America/New_York	2013-03-08
+5217417	WFRA-AM (Franklin)	WFRA-AM (Franklin)		41.39089	-79.81172	S	TOWR	US		PA	121			0	433	443	America/New_York	2010-09-05
+5217671	WVEN-FM (Franklin)	WVEN-FM (Franklin)		41.39089	-79.81172	S	TOWR	US		PA	121			0	434	443	America/New_York	2006-01-15
+5218720	West Franklin	West Franklin		41.69674	-76.62689	P	PPL	US		PA	015			0	295	295	America/New_York	2006-01-15
+5218733	Township of West Franklin	Township of West Franklin	West Franklin Township	40.84956	-79.65027	A	ADMD	US		PA	005			0	370	372	America/New_York	2013-03-08
+5222210	Franklin Farm (historical)	Franklin Farm (historical)		41.9701	-71.39728	S	FRMQ	US		RI	007			0	47	54	America/New_York	2011-12-12
+5222211	Franklin Shopping Plaza Shopping Center	Franklin Shopping Plaza Shopping Center		41.36177	-71.81062	S	MALL	US		RI	009			0	24	30	America/New_York	2006-01-15
+5222212	Franklin Square	Franklin Square		41.81482	-71.407	L	PRK	US		RI	007			0	4	-16	America/New_York	2006-01-15
+5222213	Franklin Swamp	Franklin Swamp		41.16889	-71.60713	H	SWMP	US		RI	009			0	8	1	America/New_York	2011-12-11
+5223019	Knightsville-Franklin Congregation Church	Knightsville-Franklin Congregation Church		41.78177	-71.46839	S	CH	US		RI	007			0	25	3	America/New_York	2006-01-15
+5227883	Franklin	Franklin		43.89164	-97.06895	P	PPL	US		SD	079			0	506	506	America/Chicago	2006-01-15
+5227884	Township of Franklin	Township of Franklin	Franklin (historical) Township	44.84498	-99.60262	A	ADMD	US		SD	069			0	578	578	America/Chicago	2010-07-31
+5227885	Franklin Cemetery	Franklin Cemetery		43.89192	-97.02867	S	CMTY	US		SD	079			0	510	512	America/Chicago	2006-01-15
+5227886	Franklin School	Franklin School		44.42832	-98.67037	S	SCH	US		SD	005			0	439	434	America/Chicago	2006-01-15
+5227887	Franklin School	Franklin School		44.85276	-99.61373	S	SCH	US		SD	069			0	584	582	America/Chicago	2006-01-15
+5227888	Franklin School	Franklin School		43.55525	-96.71061	S	SCH	US		SD	099			0	429	432	America/Chicago	2006-01-15
+5227889	Franklin Township Hall	Franklin Township Hall		45.70748	-98.66288	S	BLDG	US		SD	013			0	443	443	America/Chicago	2006-01-15
+5227890	Township of Franklin	Township of Franklin	Franklin Township	43.04305	-97.93146	A	ADMD	US		SD	009			0	444	441	America/Chicago	2010-07-31
+5227891	Township of Franklin	Township of Franklin	Franklin Township	44.06803	-98.39138	A	ADMD	US		SD	073			0	410	410	America/Chicago	2013-03-08
+5227892	Township of Franklin	Township of Franklin	Franklin Township	43.89152	-97.06891	A	ADMD	US		SD	079			0	506	506	America/Chicago	2013-03-08
+5229951	Franklin Creek	Franklin Creek		43.91664	-96.99728	H	STM	US		SD	079			0	491	489	America/Chicago	2010-02-17
+5235705	East Franklin	East Franklin		44.99616	-72.83208	P	PPL	US		VT	011			0	133	137	America/New_York	2006-01-15
+5235706	East Franklin Cemetery	East Franklin Cemetery		44.99532	-72.83069	S	CMTY	US		VT	011			0	138	135	America/New_York	2006-01-15
+5236277	Franklin	Franklin		44.98199	-72.91624	P	PPL	US		VT	011			0	137	134	America/New_York	2006-01-15
+5236278	Franklin Cemetery	Franklin Cemetery		42.75342	-72.6387	S	CMTY	US		VT	025			0	324	338	America/New_York	2006-01-15
+5236279	Franklin County	Franklin County	Comte de Franklin,Comté de Franklin,Condado de Franklin,Condado han Franklin,Contea di Franklin,Franklin,Hrabstwo Franklin,fu lan ke lin xian,phrankalina ka'unti,Франклин,Франклін,فرینکلن کاؤنٹی، ورمونٹ,ফ্রাঙ্কলিন কাউন্টি,富蘭克林縣	44.85748	-72.912	A	ADM2	US		VT	011			47746	218	222	America/New_York	2013-03-08
+5236280	Franklin County Courthouse	Franklin County Courthouse		44.81171	-73.0818	S	BLDG	US		VT	011			0	134	134	America/New_York	2006-01-15
+5236281	Franklin County Rod and Gun Club (historical)	Franklin County Rod and Gun Club (historical)		44.85449	-73.09152	S		US		VT	011			0	115	113	America/New_York	2010-02-20
+5236282	Franklin County State Airport	Franklin County State Airport	KFSO	44.93976	-73.09791	S	AIRP	US		VT	011			0	70	63	America/New_York	2006-01-15
+5236284	Franklin Central School	Franklin Central School		44.98427	-72.92009	S	SCH	US		VT	011			0	132	133	America/New_York	2010-02-20
+5236285	Franklin Post Office	Franklin Post Office		44.98115	-72.91902	S	PO	US		VT	011			0	136	137	America/New_York	2006-01-15
+5236286	Town of Franklin	Town of Franklin		44.97629	-72.89777	A	ADMD	US		VT	011			0	185	195	America/New_York	2013-03-08
+5241274	South Franklin	South Franklin		44.91143	-72.86625	P	PPL	US		VT	011			0	106	111	America/New_York	2006-01-15
+5241276	South Franklin Cemetery	South Franklin Cemetery		44.94588	-72.84625	S	CMTY	US		VT	011			0	208	208	America/New_York	2006-01-15
+5241313	South Franklin	South Franklin		44.94171	-72.8468	P	PPL	US		VT	011			0	200	201	America/New_York	2006-01-15
+5245408	Ben Franklin Elementary School	Ben Franklin Elementary School		42.90513	-88.0176	S	SCH	US		WI	079			0	235	237	America/Chicago	2013-03-08
+5245409	Benjamin Franklin Junior High School	Benjamin Franklin Junior High School		44.49834	-89.56472	S	SCH	US		WI	097			0	331	333	America/Chicago	2013-03-08
+5251299	East Franklin School (historical)	East Franklin School (historical)		44.22746	-91.07737	S	SCH	US		WI	053			0	294	294	America/Chicago	2006-01-15
+5253709	Franklin	Franklin		44.21274	-91.12376	P	PPL	US		WI	053			0	271	268	America/Chicago	2006-01-15
+5253710	Franklin	Franklin	Franklin,Франклин	42.88863	-88.03842	P	PPL	US		WI	079			35451	244	246	America/Chicago	2011-05-14
+5253711	Franklin	Franklin		43.83555	-87.90148	P	PPL	US		WI	117			0	241	248	America/Chicago	2006-01-15
+5253712	Franklin Cemetery	Franklin Cemetery		42.58751	-89.7304	S	CMTY	US		WI	045			0	323	326	America/Chicago	2006-01-15
+5253713	Franklin Cemetery	Franklin Cemetery		44.35166	-87.64481	S	CMTY	US		WI	061			0	214	212	America/Chicago	2006-01-15
+5253714	Franklin Church	Franklin Church		43.43886	-90.83791	S	CH	US		WI	123			0	356	355	America/Chicago	2006-01-15
+5253715	Franklin Dam	Franklin Dam		43.83666	-87.90009	S	DAM	US		WI	117			0	244	251	America/Chicago	2006-01-15
+5253716	Franklin Elementary School	Franklin Elementary School		45.48968	-91.73239	S	SCH	US		WI	005			0	347	348	America/Chicago	2006-01-15
+5253717	Franklin Elementary School	Franklin Elementary School		43.05561	-89.38736	S	SCH	US		WI	025			0	262	264	America/Chicago	2013-03-08
+5253718	Franklin Elementary School	Franklin Elementary School		43.7686	-88.45788	S	SCH	US		WI	039			0	233	236	America/Chicago	2006-01-15
+5253719	Franklin Elementary School	Franklin Elementary School		43.8475	-91.24157	S	SCH	US		WI	063			0	199	200	America/Chicago	2013-03-08
+5253720	Franklin Elementary School	Franklin Elementary School		45.18024	-89.70707	S	SCH	US		WI	069			0	389	391	America/Chicago	2006-01-15
+5253721	Franklin Elementary School	Franklin Elementary School		44.09246	-87.69017	S	SCH	US		WI	071			0	202	202	America/Chicago	2013-03-08
+5253722	Franklin Elementary School	Franklin Elementary School		43.00693	-88.01939	S	SCH	US		WI	079			0	225	225	America/Chicago	2013-03-08
+5253723	Franklin Elementary School	Franklin Elementary School		43.0851	-87.94162	S	SCH	US		WI	079			0	211	212	America/Chicago	2013-03-08
+5253724	Franklin Elementary School	Franklin Elementary School		44.28272	-88.40262	S	SCH	US		WI	087			0	240	242	America/Chicago	2013-03-08
+5253725	Franklin Elementary School	Franklin Elementary School		44.01235	-88.57117	S	SCH	US		WI	139			0	232	234	America/Chicago	2013-03-08
+5253726	Franklin Field	Franklin Field		43.05222	-89.38734	S		US		WI	025			0	260	259	America/Chicago	2010-02-19
+5253727	Franklin Field House	Franklin Field House		43.00863	-88.01925	S	BLDG	US		WI	079			0	223	221	America/Chicago	2010-02-20
+5253728	Franklin High School	Franklin High School		42.89632	-87.97802	S	SCH	US		WI	079			0	230	227	America/Chicago	2013-03-08
+5253729	Franklin Hill	Franklin Hill		44.96302	-89.61734	P	PPLX	US		WI	073			0	380	377	America/Chicago	2007-02-14
+5253730	Franklin Lake	Franklin Lake		45.93553	-89.0014	H	LK	US		WI	041			0	519	517	America/Chicago	2011-12-12
+5253731	Franklin Lake	Franklin Lake		45.87016	-89.86392	H	LK	US		WI	085			0	479	478	America/Chicago	2011-12-12
+5253732	Franklin Lake Campground	Franklin Lake Campground		45.92468	-89.00818	S	CMP	US		WI	041			0	522	530	America/Chicago	2010-02-19
+5253733	Franklin Lake Campground	Franklin Lake Campground		45.9319	-88.99374	S	CMP	US		WI	041			0	529	530	America/Chicago	2010-02-19
+5253734	Franklin Middle School	Franklin Middle School		44.51935	-88.04856	S	SCH	US		WI	009			0	185	186	America/Chicago	2013-03-08
+5253735	Franklin Middle School	Franklin Middle School		42.68547	-89.05078	S	SCH	US		WI	105			0	263	263	America/Chicago	2013-03-08
+5253736	Franklin Middle School	Franklin Middle School		42.83334	-88.74316	S	SCH	US		WI	127			0	262	265	America/Chicago	2006-01-15
+5253737	Franklin Park	Franklin Park		43.76999	-88.45622	L	PRK	US		WI	039			0	233	234	America/Chicago	2006-01-15
+5253738	Franklin Park	Franklin Park		44.38887	-88.73649	L	PRK	US		WI	087			0	239	242	America/Chicago	2006-01-15
+5253739	Franklin Park	Franklin Park		44.01248	-88.55845	L	PRK	US		WI	139			0	231	234	America/Chicago	2006-01-15
+5253740	Franklin Pond 170	Franklin Pond 170		43.83666	-87.90009	H	RSV	US		WI	117			0	244	251	America/Chicago	2006-01-15
+5253741	Franklin Public School	Franklin Public School		46.69133	-92.0288	S	SCH	US		WI	031			0	192	189	America/Chicago	2006-01-15
+5253742	Franklin School	Franklin School		43.8236	-88.50289	S	SCH	US		WI	039			0	240	242	America/Chicago	2006-01-15
+5253743	Franklin Elementary School	Franklin Elementary School		44.96907	-89.62491	S	SCH	US		WI	073			0	368	371	America/Chicago	2013-03-08
+5253744	Franklin School	Franklin School		43.73638	-87.72259	S	SCH	US		WI	117			0	192	195	America/Chicago	2006-01-15
+5253745	Franklin School (historical)	Franklin School (historical)		44.6108	-90.42652	S	SCH	US		WI	019			0	379	378	America/Chicago	2006-01-15
+5253746	Franklin School (historical)	Franklin School (historical)		43.35833	-88.92039	S	SCH	US		WI	027			0	264	262	America/Chicago	2010-02-19
+5253747	Franklin School (historical)	Franklin School (historical)		45.13219	-89.03178	S	SCH	US		WI	067			0	448	446	America/Chicago	2006-01-15
+5253748	Franklin School (historical)	Franklin School (historical)		44.93108	-90.13902	S	SCH	US		WI	073			0	425	425	America/Chicago	2006-01-15
+5253749	Franklin Spring	Franklin Spring		44.77469	-92.16601	H	SPNG	US		WI	093			0	258	257	America/Chicago	2006-01-15
+5253750	Franklin Square	Franklin Square		46.69216	-92.02797	L	PRK	US		WI	031			0	193	189	America/Chicago	2006-01-15
+5253751	Franklin Square Playground	Franklin Square Playground		43.06612	-87.92842	L	PRK	US		WI	079			0	209	211	America/Chicago	2006-01-15
+5253752	Franklin Street Park	Franklin Street Park		42.77973	-89.29401	L	PRK	US		WI	105			0	274	275	America/Chicago	2006-01-15
+5253753	Franklin Wirth Park	Franklin Wirth Park		43.06418	-88.10926	L	PRK	US		WI	133			0	252	252	America/Chicago	2006-01-15
+5253754	City of Franklin	City of Franklin		42.88539	-88.01041	A	ADMD	US		WI	079			35451	228	229	America/Chicago	2013-03-08
+5253755	Town of Franklin	Town of Franklin		44.20312	-91.09302	A	ADMD	US		WI	053			0	317	330	America/Chicago	2013-03-08
+5253756	Town of Franklin	Town of Franklin		44.37089	-87.70483	A	ADMD	US		WI	061			0	240	236	America/Chicago	2013-03-08
+5253757	Town of Franklin	Town of Franklin		44.19659	-87.86314	A	ADMD	US		WI	071			0	256	259	America/Chicago	2013-03-08
+5253758	Town of Franklin	Town of Franklin		43.30825	-90.04383	A	ADMD	US		WI	111			0	246	248	America/Chicago	2013-03-08
+5253759	Town of Franklin	Town of Franklin		43.47723	-90.9006	A	ADMD	US		WI	123			0	344	342	America/Chicago	2013-03-08
+5280296	Franklin	Franklin		40.27451	-80.54229	P	PPL	US		WV	009			0	366	363	America/New_York	2006-01-15
+5280297	Franklin Primary School	Franklin Primary School		40.27265	-80.53791	S	SCH	US		WV	009			0	382	378	America/New_York	2010-02-19
+5280298	Franklin United Methodist Church	Franklin United Methodist Church		40.27451	-80.54202	S	CH	US		WV	009			0	366	365	America/New_York	2006-01-15
+5281174	Franklin Pierce Lake	Franklin Pierce Lake		43.09814	-71.95368	H	RSV	US		NH	011			0	237	231	America/New_York	2011-12-11
+5282208	Benjamin Franklin School	Benjamin Franklin School		41.53926	-72.8176	S	SCH	US		CT	009			0	37	41	America/New_York	2006-01-15
+5282212	Benjamin Franklin Middle School	Benjamin Franklin Middle School		41.09899	-73.42401	S	SCH	US		CT	001			0	22	30	America/New_York	2006-01-15
+5282221	Benjamin Franklin Education Center	Benjamin Franklin Education Center		41.18399	-73.18289	S	SCH	US		CT	001			0	12	8	America/New_York	2006-01-15
+5295317	Franklin	Franklin		32.67757	-109.07923	P	PPL	US		AZ	011			92	1137	1139	America/Phoenix	2011-05-14
+5295318	Franklin Lateral	Franklin Lateral		32.60338	-114.73273	H	CNL	US		AZ	027			0	32	29	America/Phoenix	2006-01-15
+5295319	Franklin School	Franklin School		33.41449	-111.82458	S	SCH	US		AZ	013			0	378	379	America/Phoenix	2006-01-15
+5295320	Franklin Police and Fire High School	Franklin Police and Fire High School		33.46516	-112.09507	S	SCH	US		AZ	013			0	330	328	America/Phoenix	2010-02-14
+5295321	Franklin Tank	Franklin Tank		34.27829	-111.22252	H	RSVT	US		AZ	007			0	1557	1553	America/Phoenix	2011-12-11
+5327515	Ben Franklin Canal	Ben Franklin Canal		38.85879	-121.19523	H	CNL	US		CA	061			0	190	187	America/Los_Angeles	2010-02-14
+5327580	Benjamin Franklin Branch Los Angeles Public Library	Benjamin Franklin Branch Los Angeles Public Library		34.04418	-118.21229	S	LIBR	US		CA	037			0	91	92	America/Los_Angeles	2006-01-15
+5327581	Benjamin Franklin Elementary School	Benjamin Franklin Elementary School		34.16195	-118.29702	S	SCH	US		CA	037			0	148	150	America/Los_Angeles	2006-01-15
+5327582	Benjamin Franklin Elementary School	Benjamin Franklin Elementary School		33.82779	-117.91923	S	SCH	US		CA	059			0	45	44	America/Los_Angeles	2006-01-15
+5327583	Benjamin Franklin Elementary School	Benjamin Franklin Elementary School		33.73557	-117.8695	S	SCH	US		CA	059			0	28	33	America/Los_Angeles	2006-01-15
+5327584	Benjamin Franklin Elementary School	Benjamin Franklin Elementary School		33.90141	-117.32115	S	SCH	US		CA	065			0	506	505	America/Los_Angeles	2006-01-15
+5327585	Benjamin Franklin Intermediate School	Benjamin Franklin Intermediate School		37.69538	-122.48266	S	SCH	US		CA	081			0	42	40	America/Los_Angeles	2010-02-14
+5327586	Benjamin Franklin Middle School (historical)	Benjamin Franklin Middle School (historical)		37.78299	-122.43766	S	SCH	US		CA	075			0	43	46	America/Los_Angeles	2010-02-14
+5350486	Franklin	Franklin		38.37908	-121.4544	P	PPL	US		CA	067			155	6	5	America/Los_Angeles	2011-05-14
+5350487	Franklin Avenue Elementary School	Franklin Avenue Elementary School		34.1061	-118.285	S	SCH	US		CA	037			0	143	147	America/Los_Angeles	2011-01-10
+5350488	Franklin Building	Franklin Building		37.80604	-122.2683	S	BLDG	US		CA	001			0	10	16	America/Los_Angeles	2010-02-20
+5350489	Franklin Cabin	Franklin Cabin		39.59824	-120.45132	S		US		CA	091			0	1865	1906	America/Los_Angeles	2010-02-14
+5350490	Franklin Cabin	Franklin Cabin		39.59768	-120.43438	S		US		CA	091			0	1690	1694	America/Los_Angeles	2010-02-19
+5350491	Franklin Canyon	Franklin Canyon		37.99714	-122.15219	T	VAL	US		CA	013			0	75	74	America/Los_Angeles	2006-01-15
+5350493	Franklin Canyon	Franklin Canyon		39.17767	-122.72888	T	VAL	US		CA	033			0	643	647	America/Los_Angeles	2006-01-15
+5350494	Franklin Canyon	Franklin Canyon		34.10306	-118.41314	T	VAL	US		CA	037			0	176	183	America/Los_Angeles	2006-01-15
+5350495	Franklin Canyon	Franklin Canyon		39.79017	-121.09774	T	VAL	US		CA	063			0	806	827	America/Los_Angeles	2006-01-15
+5350496	Franklin Canyon	Franklin Canyon		34.40416	-119.51985	T	VAL	US		CA	083			0	11	7	America/Los_Angeles	2006-01-15
+5350497	Franklin Canyon	Franklin Canyon		36.26912	-118.96899	T	VAL	US		CA	107			0	215	211	America/Los_Angeles	2006-01-15
+5350498	Franklin Canyon Golf Course	Franklin Canyon Golf Course		38.00603	-122.21886	S	RECG	US		CA	013			0	57	65	America/Los_Angeles	2006-01-15
+5350499	Franklin Cemetery	Franklin Cemetery		38.37658	-121.45579	S	CMTY	US		CA	067			0	6	4	America/Los_Angeles	2006-01-15
+5350500	Franklin Comminity Library	Franklin Comminity Library		38.39213	-121.43134	S	LIBR	US		CA	067			0	8	7	America/Los_Angeles	2006-01-15
+5350501	Franklin Creek	Franklin Creek		37.99603	-122.13191	H	STM	US		CA	013			0	25	30	America/Los_Angeles	2006-01-15
+5350502	Franklin Canyon Reservoir	Franklin Canyon Reservoir		34.09843	-118.41212	H	RSV	US		CA	037			0	176	176	America/Los_Angeles	2011-12-11
+5350503	Franklin Creek	Franklin Creek		35.68941	-120.94713	H	STM	US		CA	079			0	245	248	America/Los_Angeles	2006-01-15
+5350504	Franklin Creek	Franklin Creek		34.39555	-119.52929	H	STM	US		CA	083			0	3	3	America/Los_Angeles	2006-01-15
+5350505	Franklin Creek	Franklin Creek		36.42817	-118.58342	H	STM	US		CA	107			0	2533	2544	America/Los_Angeles	2012-04-09
+5350506	Franklin Creek Park	Franklin Creek Park		34.40638	-119.51818	L	PRK	US		CA	083			0	12	9	America/Los_Angeles	2006-01-15
+5350507	Franklin D Roosevelt School	Franklin D Roosevelt School		38.49741	-121.4544	S	SCH	US		CA	067			0	6	9	America/Los_Angeles	2006-01-15
+5350508	Franklin D Roosevelt Elementary School	Franklin D Roosevelt Elementary School		37.66221	-122.4878	S	SCH	US		CA	081			0	74	106	America/Los_Angeles	2010-02-14
+5350509	Franklin Elementary School	Franklin Elementary School		37.79359	-122.24861	S	SCH	US		CA	001			0	13	11	America/Los_Angeles	2010-02-14
+5350510	Franklin Elementary School	Franklin Elementary School		35.37357	-119.02955	S	SCH	US		CA	029			0	122	127	America/Los_Angeles	2006-01-15
+5350511	Franklin Elementary School	Franklin Elementary School		34.03978	-118.48495	S	SCH	US		CA	037			0	80	83	America/Los_Angeles	2011-01-10
+5350512	Franklin Elementary School	Franklin Elementary School		34.19219	-118.16054	S	SCH	US		CA	037			0	362	366	America/Los_Angeles	2011-01-10
+5350513	Franklin Elementary School	Franklin Elementary School		37.32772	-120.54103	S	SCH	US		CA	047			0	48	52	America/Los_Angeles	2006-01-15
+5350514	Franklin Elementary School	Franklin Elementary School		33.75279	-118.02839	S	SCH	US		CA	059			0	8	9	America/Los_Angeles	2006-01-15
+5350515	Franklin Elementary School	Franklin Elementary School		38.78768	-121.17217	S	SCH	US		CA	061			0	149	150	America/Los_Angeles	2006-01-15
+5350516	Franklin Elementary School	Franklin Elementary School		38.37658	-121.45745	S	SCH	US		CA	067			0	6	5	America/Los_Angeles	2006-01-15
+5350517	Franklin Elementary School	Franklin Elementary School		34.06185	-117.17184	S	SCH	US		CA	071			0	434	436	America/Los_Angeles	2011-01-10
+5350518	Franklin Elementary School	Franklin Elementary School		32.75866	-117.10309	S	SCH	US		CA	073			0	111	112	America/Los_Angeles	2006-01-15
+5350519	Franklin Elementary School	Franklin Elementary School		37.58838	-122.38852	S	SCH	US		CA	081			0	37	33	America/Los_Angeles	2010-02-14
+5350520	Franklin Elementary School	Franklin Elementary School		34.42524	-119.6781	S	SCH	US		CA	083			0	13	15	America/Los_Angeles	2010-02-20
+5350521	Franklin Elementary School	Franklin Elementary School		37.30473	-121.85142	S	SCH	US		CA	085			0	38	34	America/Los_Angeles	2010-09-05
+5350522	Franklin Elementary School	Franklin Elementary School		37.63771	-121.02049	S	SCH	US		CA	099			0	25	28	America/Los_Angeles	2006-01-15
+5350523	Franklin Elementary School	Franklin Elementary School		39.12767	-121.68969	S	SCH	US		CA	101			0	16	15	America/Los_Angeles	2006-01-15
+5350524	Franklin Field	Franklin Field		35.1533	-119.44484	L	PRK	US		CA	029			0	254	256	America/Los_Angeles	2006-01-15
+5350525	Franklin Field Airport	Franklin Field Airport		38.30496	-121.42513	S	AIRF	US		CA	067			0	6	7	America/Los_Angeles	2012-04-09
+5350526	Franklin High School	Franklin High School		38.39297	-121.43023	S	SCH	US		CA	067			0	8	8	America/Los_Angeles	2006-01-15
+5350527	Franklin Hill	Franklin Hill		39.7685	-121.11162	T	MT	US		CA	063			0	1743	1753	America/Los_Angeles	2006-01-15
+5350528	Franklin Home Site Church	Franklin Home Site Church		39.126	-121.64136	S	CH	US		CA	101			0	17	16	America/Los_Angeles	2006-01-15
+5350529	Franklin Junior High School	Franklin Junior High School		38.09881	-122.23136	S	SCH	US		CA	095			0	22	19	America/Los_Angeles	2006-01-15
+5350530	Franklin Lake	Franklin Lake		37.53366	-118.91215	H	LK	US		CA	019			0	3392	3391	America/Los_Angeles	2011-12-11
+5350531	Franklin Lakes	Franklin Lakes		36.41892	-118.55849	H	LK	US		CA	107			0	3150	3143	America/Los_Angeles	2011-12-11
+5350532	Franklin Meadow	Franklin Meadow		37.18216	-118.79289	T	PLN	US		CA	019			0	2658	2655	America/Los_Angeles	2006-01-15
+5350533	Franklin Middle School	Franklin Middle School		33.77385	-118.17776	S	SCH	US		CA	037			0	13	16	America/Los_Angeles	2011-01-10
+5350534	Franklin Park	Franklin Park		37.76854	-122.26136	L	PRK	US		CA	001			0	9	13	America/Los_Angeles	2006-01-15
+5350535	Franklin Park	Franklin Park		33.75335	-118.02812	L	PRK	US		CA	059			0	8	8	America/Los_Angeles	2006-01-15
+5350536	Franklin Park	Franklin Park		34.42639	-119.6793	L	PRK	US		CA	083			0	15	15	America/Los_Angeles	2006-01-15
+5350537	Franklin Park	Franklin Park		38.46047	-122.71138	L	PRK	US		CA	097			0	54	56	America/Los_Angeles	2006-01-15
+5350538	Franklin Pass	Franklin Pass		36.41199	-118.54662	T	GAP	US		CA	107			0	3571	3539	America/Los_Angeles	2012-04-09
+5350539	Franklin Pit	Franklin Pit		39.06907	-120.71854	S	MN	US		CA	061			0	1000	996	America/Los_Angeles	2006-01-15
+5350540	Franklin Pit	Franklin Pit		39.07157	-120.71826	S	MN	US		CA	061			0	1025	1023	America/Los_Angeles	2006-01-15
+5350541	Franklin Point	Franklin Point		37.14967	-122.36053	T	CAPE	US		CA	081			0	12	-9999	America/Los_Angeles	2006-01-15
+5350542	Franklin Point Trail	Franklin Point Trail		37.153	-122.35692	R	TRL	US		CA	081			0	13	12	America/Los_Angeles	2006-01-15
+5350543	Franklin Post Office	Franklin Post Office		38.29686	-122.28747	S	PO	US		CA	055			0	7	7	America/Los_Angeles	2006-01-15
+5350544	Franklin Ridge	Franklin Ridge		38.00409	-122.17691	T	RDGE	US		CA	013			0	280	271	America/Los_Angeles	2006-01-15
+5350545	Franklin Elementary School	Franklin Elementary School		37.76866	-122.26049	S	SCH	US		CA	001			0	10	10	America/Los_Angeles	2010-02-14
+5350546	Franklin Elementary School	Franklin Elementary School		37.87381	-122.29108	S	SCH	US		CA	001			0	18	20	America/Los_Angeles	2010-02-14
+5350547	Franklin School	Franklin School		36.51828	-119.61041	S	SCH	US		CA	019			0	88	90	America/Los_Angeles	2006-01-15
+5350548	Franklin School	Franklin School		36.72189	-119.80931	S	SCH	US		CA	019			0	90	94	America/Los_Angeles	2010-02-14
+5350549	Franklin School	Franklin School		33.86168	-118.36063	S	SCH	US		CA	037			0	36	37	America/Los_Angeles	2006-01-15
+5350550	Franklin School	Franklin School		33.99585	-118.06451	S	SCH	US		CA	037			0	62	65	America/Los_Angeles	2006-01-15
+5350551	Benjamin Franklin School	Benjamin Franklin School		34.19584	-118.34119	S	SCH	US		CA	037			0	203	205	America/Los_Angeles	2007-02-14
+5350552	Franklin School	Franklin School		33.74752	-117.88895	S	SCH	US		CA	059			0	28	31	America/Los_Angeles	2006-01-15
+5350553	Franklin School	Franklin School		34.06224	-117.17087	S	SCH	US		CA	071			0	435	439	America/Los_Angeles	2006-01-15
+5350554	Franklin School	Franklin School		37.76465	-122.40942	S	SCH	US		CA	075			0	22	23	America/Los_Angeles	2006-01-15
+5350556	Franklin School	Franklin School		34.42611	-119.67958	S	SCH	US		CA	083			0	14	17	America/Los_Angeles	2006-01-15
+5350557	Franklin High School	Franklin High School		34.11586	-118.19883	S	SCH	US		CA	037			0	173	178	America/Los_Angeles	2010-02-14
+5350558	Franklin Senior High School	Franklin Senior High School		37.96826	-121.23745	S	SCH	US		CA	077			0	9	11	America/Los_Angeles	2010-02-14
+5350559	Franklin Square (historical)	Franklin Square (historical)		37.79771	-122.27469	L	PRK	US		CA	001			0	7	9	America/Los_Angeles	2006-01-15
+5350560	Franklin Trail	Franklin Trail		34.45694	-119.5029	R	TRL	US		CA	083			0	791	801	America/Los_Angeles	2006-01-15
+5350561	Franklin Well	Franklin Well		36.42468	-116.46227	H	WLL	US		CA	027			0	668	669	America/Los_Angeles	2006-01-15
+5350562	Franklin and Florin Shopping Center	Franklin and Florin Shopping Center		38.49657	-121.46134	S	MALL	US		CA	067			0	6	7	America/Los_Angeles	2006-01-15
+5350563	Franklin and Wolfe Building	Franklin and Wolfe Building		38.03465	-120.40047	S	BLDG	US		CA	109			0	647	654	America/Los_Angeles	2006-01-15
+5350566	Franklin D Roosevelt Junior High School	Franklin D Roosevelt Junior High School		33.86696	-118.13479	S	SCH	US		CA	037			0	17	22	America/Los_Angeles	2006-01-15
+5357541	Hollywood Franklin Park	Hollywood Franklin Park		34.1039	-118.34286	L	PRK	US		CA	037			0	130	137	America/Los_Angeles	2006-01-15
+5364211	Lady Franklin Lake 104-011 Dam	Lady Franklin Lake 104-011 Dam		36.42161	-118.56093	S	DAM	US		CA	107			0	3168	3165	America/Los_Angeles	2006-01-15
+5364212	Lady Franklin Mine	Lady Franklin Mine		38.62296	-119.78379	S	MN	US		CA	003			0	2336	2379	America/Los_Angeles	2006-01-15
+5364213	Lady Franklin Mine	Lady Franklin Mine		36.42216	-118.57204	S	MN	US		CA	107			0	3036	3017	America/Los_Angeles	2006-01-15
+5368956	Lower Franklin 6-014 Dam	Lower Franklin 6-014 Dam		34.09501	-118.41091	S	DAM	US		CA	037			0	176	179	America/Los_Angeles	2006-01-15
+5404996	Upper Franklin 6-027 Dam	Upper Franklin 6-027 Dam		34.12001	-118.41091	S	DAM	US		CA	037			0	260	270	America/Los_Angeles	2006-01-15
+5404998	Upper Franklin Canyon Reservoir	Upper Franklin Canyon Reservoir		34.11945	-118.41036	H	RSV	US		CA	037			0	260	281	America/Los_Angeles	2006-01-15
+5413428	Ben Franklin Mine	Ben Franklin Mine		37.89444	-107.6145	S	MN	US		CO	111			0	3667	3666	America/Denver	2006-01-15
+5413429	Ben Franklin Mine	Ben Franklin Mine		37.8	-107.65062	S	MN	US		CO	111			0	3464	3447	America/Denver	2006-01-15
+5413468	Benjamin Franklin School	Benjamin Franklin School		38.29111	-104.57081	S	SCH	US		CO	101			0	1444	1449	America/Denver	2006-01-15
+5422312	Franklin D Tunnel Mine	Franklin D Tunnel Mine		39.76165	-105.60389	S	MN	US		CO	019			0	2534	2543	America/Denver	2006-01-15
+5422313	Franklin Elementary School	Franklin Elementary School		39.59991	-104.96904	S	SCH	US		CO	005			0	1687	1690	America/Denver	2011-01-10
+5422314	Franklin Mesa	Franklin Mesa		38.48971	-107.99396	T	MT	US		CO	085			0	1829	1835	America/Denver	2006-01-15
+5422315	Franklin Mine	Franklin Mine		39.04999	-106.26724	S	MN	US		CO	015			0	2726	2733	America/Denver	2006-01-15
+5422316	Franklin Mine	Franklin Mine		39.6611	-105.94335	S	MN	US		CO	019			0	3657	3662	America/Denver	2006-01-15
+5422317	Franklin Mine	Franklin Mine		38.1986	-108.97011	S	MN	US		CO	085			0	1638	1641	America/Denver	2006-01-15
+5422318	Franklin Mine	Franklin Mine		39.18193	-106.82004	S	MN	US		CO	097			0	2537	2555	America/Denver	2006-01-15
+5422319	Franklin Reservoir	Franklin Reservoir		39.83027	-104.99094	H	RSV	US		CO	001			0	1588	1587	America/Denver	2011-12-11
+5422320	Franklin School	Franklin School		38.84277	-104.77497	S	SCH	US		CO	041			0	1875	1883	America/Denver	2006-01-15
+5422321	Franklin Shaft Number Eighty-seven Mine	Franklin Shaft Number Eighty-seven Mine		39.75999	-105.50666	S	MN	US		CO	019			0	2688	2694	America/Denver	2006-01-15
+5422322	Franklin Shaft Number Seventy-three Mine	Franklin Shaft Number Seventy-three Mine		39.76054	-105.50833	S	MN	US		CO	019			0	2669	2686	America/Denver	2006-01-15
+5422323	Franklin Spring	Franklin Spring		39.59761	-108.6037	H	SPNG	US		CO	045			0	2583	2609	America/Denver	2011-12-11
+5427765	Lady Franklin Mine	Lady Franklin Mine		39.99443	-105.36499	S	MN	US		CO	013			0	2199	2201	America/Denver	2006-01-15
+5427766	Lady Franklin Mine	Lady Franklin Mine		38.16028	-105.44417	S	MN	US		CO	027			0	2469	2473	America/Denver	2006-01-15
+5445448	Township of Franklin	Township of Franklin	Franklin Township	38.76924	-100.05991	A	ADMD	US		KS	195			0	721	727	America/Chicago	2013-03-07
+5468342	Franklin Canyon	Franklin Canyon		36.23642	-105.06751	T	VAL	US		NM	033			0	2323	2334	America/Denver	2006-01-15
+5468343	Franklin	Franklin		35.39391	-108.74842	S		US		NM	031			0	2171	2177	America/Denver	2010-02-16
+5468344	Franklin Mountains Historical Marker	Franklin Mountains Historical Marker		32.1826	-106.69833	L	PRK	US		NM	013			0	1173	1168	America/Denver	2006-01-15
+5468345	Franklin Number One Mine	Franklin Number One Mine		33.03202	-107.25669	S	MN	US		NM	051			0	1310	1309	America/Denver	2006-01-15
+5468346	Franklin Number Two Mine	Franklin Number Two Mine		33.03202	-107.25669	S	MN	US		NM	051			0	1310	1309	America/Denver	2006-01-15
+5468347	Franklin Plaza	Franklin Plaza		35.07088	-106.51308	S		US		NM	001			0	1689	1692	America/Denver	2010-02-16
+5468348	Franklin Ranch	Franklin Ranch		35.93225	-106.11252	S		US		NM	039			0	1689	1691	America/Denver	2010-02-16
+5468349	Franklin Tank	Franklin Tank		34.44727	-108.38496	H	RSVT	US		NM	003			0	2343	2347	America/Denver	2011-12-11
+5468353	Franklin Mine	Franklin Mine		35.46587	-106.11141	S	MN	US		NM	049			0	1879	1876	America/Denver	2006-01-15
+5469056	General Franklin E Miles Park	General Franklin E Miles Park		35.65392	-105.98336	L	PRK	US		NM	049			0	2054	2051	America/Denver	2006-01-15
+5475031	Lady Franklin Mine	Lady Franklin Mine		32.9348	-107.72003	S	MN	US		NM	051			0	2132	2132	America/Denver	2006-01-15
+5477091	Lea County-Zip Franklin Memorial Airport	Lea County-Zip Franklin Memorial Airport		32.94943	-103.41054	S	AIRP	US		NM	025			0	1211	1212	America/Denver	2011-12-11
+5504298	Franklin Mill (historical)	Franklin Mill (historical)		39.21463	-119.60934	S		US		NV	019			0	1337	1339	America/Los_Angeles	2010-02-16
+5504299	Franklin Shaft	Franklin Shaft		39.04381	-117.95901	S	MN	US		NV	023			0	1615	1616	America/Los_Angeles	2006-01-15
+5504300	Franklin Shopping Center	Franklin Shopping Center		36.11081	-115.06333	S	MALL	US		NV	003			0	520	526	America/Los_Angeles	2006-01-15
+5521833	Franklin Canal	Franklin Canal		31.60317	-106.25637	H	CNL	US		TX	141			0	1110	1106	America/Denver	2006-01-15
+5521834	Franklin Canal	Franklin Canal		31.76178	-106.50832	H	CNL	US		TX	141			0	1134	1131	America/Denver	2006-01-15
+5521835	Franklin Center	Franklin Center		32.72983	-101.03151	P	PPL	US		TX	415			0	749	750	America/Chicago	2006-01-15
+5521836	Franklin Drain	Franklin Drain		31.6465	-106.30526	H	CNL	US		TX	141			0	1116	1110	America/Denver	2006-01-15
+5521837	Franklin Feeder	Franklin Feeder		31.624	-106.27748	H	CNL	US		TX	141			0	1114	1108	America/Denver	2006-01-15
+5521838	Franklin High School	Franklin High School		31.86122	-106.55693	S	SCH	US		TX	141			0	1224	1227	America/Denver	2006-01-15
+5521839	Franklin High School Baseball Field	Franklin High School Baseball Field		31.86122	-106.55693	L	PRK	US		TX	141			0	1224	1227	America/Denver	2006-01-15
+5521840	Franklin High School Stadium	Franklin High School Stadium		31.86122	-106.55693	S	STDM	US		TX	141			0	1224	1227	America/Denver	2013-01-10
+5521841	Franklin Lakes	Franklin Lakes		35.45949	-100.62569	H	RSV	US		TX	179			0	818	826	America/Chicago	2006-01-15
+5521842	Franklin Mountains	Franklin Mountains		31.90288	-106.49388	T	MTS	US		TX	141			0	2186	2144	America/Denver	2006-01-15
+5521843	Franklin Mountains State Natural Area	Franklin Mountains State Natural Area		31.90066	-106.50027	L	PRK	US		TX	141			0	1829	1816	America/Denver	2006-01-15
+5521844	Franklin Mountains State Park Trail Network	Franklin Mountains State Park Trail Network		31.88372	-106.50221	R	TRL	US		TX	141			0	1654	1611	America/Denver	2006-01-15
+5521845	Franklin Ranch	Franklin Ranch		31.86874	-101.96652	S		US		TX	329			0	823	821	America/Chicago	2010-02-18
+5521846	Mount Franklin	Mount Franklin		31.83205	-106.49221	T	MT	US		TX	141			0	1870	1839	America/Denver	2007-02-14
+5526697	Mount Franklin Church	Mount Franklin Church		31.83705	-106.5736	S	CH	US		TX	141			0	1152	1151	America/Denver	2006-01-15
+5527248	North Franklin Mountain	North Franklin Mountain		31.90288	-106.49388	T	MT	US		TX	141			0	2186	2144	America/Denver	2006-01-15
+5531344	South Franklin Mountain	South Franklin Mountain		31.86455	-106.49082	T	MT	US		TX	141			0	2070	2023	America/Denver	2006-01-15
+5539414	Franklin Butte	Franklin Butte		37.28667	-109.82707	T	MT	US		UT	037			0	1534	1509	America/Denver	2006-01-15
+5553257	Benjamin Franklin School	Benjamin Franklin School		33.41339	-110.87845	S	SCH	US		AZ	007			0	1187	1181	America/Phoenix	2006-01-15
+5563929	Franklin Creek	Franklin Creek		41.66434	-120.38273	H	STM	US		CA	049			0	1452	1451	America/Los_Angeles	2006-01-15
+5563931	Franklin Gulch	Franklin Gulch		40.72404	-122.6728	T	VAL	US		CA	089			0	619	635	America/Los_Angeles	2006-01-15
+5563932	Franklin Gulch	Franklin Gulch		41.75791	-123.01198	T	VAL	US		CA	093			0	520	558	America/Los_Angeles	2006-01-15
+5563933	Franklin Gulch	Franklin Gulch		41.67347	-122.87892	T	VAL	US		CA	093			0	973	982	America/Los_Angeles	2006-01-15
+5563934	Franklin Mine	Franklin Mine		40.72265	-122.67085	S	MN	US		CA	089			0	618	631	America/Los_Angeles	2006-01-15
+5563935	Franklin Point	Franklin Point		40.04599	-122.68028	T	MT	US		CA	103			0	1040	1037	America/Los_Angeles	2006-01-15
+5563936	Franklin School	Franklin School		40.80152	-124.14951	S	SCH	US		CA	023			0	9	10	America/Los_Angeles	2007-02-15
+5563938	Franklin Mine	Franklin Mine		41.68347	-122.87837	S	MN	US		CA	093			0	1256	1253	America/Los_Angeles	2006-01-15
+5577205	Franklin Lake	Franklin Lake		40.51841	-104.84132	H	RSV	US		CO	123			0	1484	1483	America/Denver	2011-12-11
+5577206	Franklin Mine	Franklin Mine		40.03971	-105.40416	S	MN	US		CO	013			0	2190	2233	America/Denver	2006-01-15
+5577207	Franklin Number Five Mine	Franklin Number Five Mine		40.03999	-105.38999	S	MN	US		CO	013			0	2091	2096	America/Denver	2006-01-15
+5577208	Franklin School	Franklin School		40.61721	-103.21688	S	SCH	US		CO	075			0	1202	1205	America/Denver	2006-01-15
+5577209	Franklin School	Franklin School		40.42443	-104.73441	S	SCH	US		CO	123			0	1445	1447	America/Denver	2006-01-15
+5593543	Franklin	Franklin	Franklin,Франклин	42.01354	-111.80717	P	PPL	US		ID	041			641	1373	1372	America/Boise	2011-05-14
+5593544	Franklin Basin	Franklin Basin		42.07076	-111.61161	T	DPR	US		ID	041			0	2399	2400	America/Boise	2006-01-15
+5593545	Franklin Canyon	Franklin Canyon		43.91852	-113.48363	T	VAL	US		ID	037			0	1824	1822	America/Boise	2006-01-15
+5593547	Franklin County	Franklin County	Comte de Franklin,Comté de Franklin	42.18117	-111.81323	A	ADM2	US		ID	041			12786	1400	1396	America/Boise	2013-03-07
+5593548	Franklin County Medical Center	Franklin County Medical Center		42.09759	-111.87289	S	HSP	US		ID	041			0	1437	1438	America/Boise	2013-03-07
+5593549	Franklin Creek	Franklin Creek		45.23018	-115.67484	H	STM	US		ID	049			0	2130	2138	America/Boise	2006-01-15
+5593550	Franklin Cemetery	Franklin Cemetery		42.00326	-111.81606	S	CMTY	US		ID	041			0	1376	1378	America/Boise	2006-01-15
+5593551	Franklin Junior High School	Franklin Junior High School		42.87158	-112.41748	S	SCH	US		ID	005			0	1453	1452	America/Boise	2006-01-15
+5593552	Franklin Labor Camp	Franklin Labor Camp		43.64461	-116.55235	S	CMP	US		ID	027			0	752	751	America/Boise	2010-02-15
+5593553	Franklin Mine	Franklin Mine		43.46267	-115.31703	S	MN	US		ID	039			0	1399	1382	America/Boise	2006-01-15
+5593554	Franklin Mine	Franklin Mine		47.3027	-115.93099	S	MN	US		ID	079			0	844	855	America/Los_Angeles	2006-01-15
+5593555	Franklin School	Franklin School		43.66377	-116.55874	S	SCH	US		ID	027			0	751	751	America/Boise	2006-01-15
+5593556	Franklin Towne Center	Franklin Towne Center		43.60378	-116.28123	S		US		ID	001			0	824	827	America/Boise	2010-02-15
+5593558	Franklin Elementary School	Franklin Elementary School		43.60239	-116.24429	S	SCH	US		ID	001			0	833	836	America/Boise	2006-01-15
+5653200	Franklin	Franklin		46.37163	-109.26767	P	PPL	US		MT	037			0	1140	1136	America/Denver	2006-01-15
+5653201	Franklin	Franklin		46.37163	-109.26767	S		US		MT	037			0	1140	1136	America/Denver	2010-02-19
+5653202	Franklin Gulch	Franklin Gulch		45.87853	-114.05564	T	VAL	US		MT	081			0	1289	1305	America/Denver	2006-01-15
+5653204	Franklin Hills	Franklin Hills		46.05356	-109.89074	T	MTS	US		MT	097			0	1487	1485	America/Denver	2006-01-15
+5653205	Franklin Mine	Franklin Mine		45.6027	-112.92003	S	MN	US		MT	001			0	2512	2515	America/Denver	2006-01-15
+5653206	Franklin Mine	Franklin Mine		46.63938	-112.07445	S	MN	US		MT	049			0	1196	1192	America/Denver	2006-01-15
+5653207	Franklin Number 1 Mine	Franklin Number 1 Mine		45.60826	-113.32033	S	MN	US		MT	001			0	2150	2161	America/Denver	2006-01-15
+5653208	Franklin Park	Franklin Park		46.86103	-114.03039	L	PRK	US		MT	063			0	969	974	America/Denver	2006-01-15
+5653209	Franklin Post Office (historical)	Franklin Post Office (historical)		46.37163	-109.26795	S	PO	US		MT	037			0	1139	1134	America/Denver	2010-02-19
+5653210	Franklin School	Franklin School		46.8602	-114.02678	S	SCH	US		MT	063			0	969	971	America/Denver	2006-01-15
+5653211	Franklin School	Franklin School		48.50475	-104.17355	S	SCH	US		MT	091			0	606	602	America/Denver	2006-01-15
+5653212	Franklin School (historical)	Franklin School (historical)		47.50635	-111.32636	S	SCH	US		MT	013			0	1016	1016	America/Denver	2010-02-16
+5653213	Franklin School (historical)	Franklin School (historical)		46.37163	-109.26767	S	SCH	US		MT	037			0	1140	1136	America/Denver	2006-01-15
+5653214	Franklin School (historical)	Franklin School (historical)		47.36999	-108.17706	S	SCH	US		MT	069			0	878	876	America/Denver	2006-01-15
+5653215	Franklin Spring	Franklin Spring		46.46903	-111.30252	H	SPNG	US		MT	007			0	1752	1758	America/Denver	2011-12-11
+5653217	Franklin Hill	Franklin Hill		46.32076	-113.26617	T	MT	US		MT	039			0	2078	2076	America/Denver	2006-01-15
+5679327	South Franklin Hill Mine	South Franklin Hill Mine		46.31576	-113.26478	S	MN	US		MT	039			0	1898	1906	America/Denver	2006-01-15
+5704024	Franklin	Franklin		40.66354	-115.1881	S		US		NV	007			0	1838	1840	America/Los_Angeles	2010-02-16
+5704025	Franklin Lake	Franklin Lake		40.35419	-115.40611	H	LK	US		NV	007			0	1814	1813	America/Los_Angeles	2011-12-11
+5704026	Franklin Lake Wildlife Management Area	Franklin Lake Wildlife Management Area		40.35021	-115.41644	L	PRK	US		NV	007			0	1815	1813	America/Los_Angeles	2006-01-15
+5704027	Franklin River	Franklin River		40.47104	-115.26032	H	STM	US		NV	007			0	1817	1818	America/Los_Angeles	2006-01-15
+5704029	Franklin Well	Franklin Well		41.3499	-118.04903	H	WLL	US		NV	013			0	1264	1268	America/Los_Angeles	2006-01-15
+5704031	Franklin Spring	Franklin Spring		40.13576	-115.76145	H	SPNG	US		NV	007			0	1727	1730	America/Los_Angeles	2006-01-15
+5727535	Franklin	Franklin		44.16096	-123.30454	P	PPL	US		OR	039			0	147	144	America/Los_Angeles	2006-01-15
+5727536	Franklin Butte	Franklin Butte		44.68568	-122.83009	T	MT	US		OR	043			0	271	272	America/Los_Angeles	2006-01-15
+5727537	Franklin Butte Cemetery	Franklin Butte Cemetery		44.67957	-122.84648	S	CMTY	US		OR	043			0	155	155	America/Los_Angeles	2006-01-15
+5727538	Franklin City Park	Franklin City Park		44.5729	-123.27065	L	PRK	US		OR	003			0	72	74	America/Los_Angeles	2006-01-15
+5727539	Franklin City Park	Franklin City Park		44.04485	-123.05759	L	PRK	US		OR	039			0	131	139	America/Los_Angeles	2010-02-17
+5727540	Franklin Creek	Franklin Creek		43.66789	-123.91816	H	STM	US		OR	019			0	10	10	America/Los_Angeles	2006-01-16
+5727542	Franklin High School	Franklin High School		45.50222	-122.60694	S	SCH	US		OR	051			0	66	68	America/Los_Angeles	2010-02-17
+5727543	Franklin Hill	Franklin Hill		45.37901	-119.2439	T	MT	US		OR	049			0	1070	1067	America/Los_Angeles	2006-01-15
+5727544	Franklin Mountain	Franklin Mountain		44.84042	-119.46833	T	MT	US		OR	023			0	1178	1179	America/Los_Angeles	2010-09-05
+5727545	Franklin Post Office (historical)	Franklin Post Office (historical)		44.16096	-123.30454	S	PO	US		OR	039			0	147	144	America/Los_Angeles	2006-01-15
+5727546	Franklin Ridge	Franklin Ridge		44.49568	-123.48594	T	RDGE	US		OR	003			0	475	475	America/Los_Angeles	2010-02-17
+5727547	Franklin School	Franklin School		44.57472	-123.27333	S	SCH	US		OR	003			0	72	73	America/Los_Angeles	2010-02-17
+5727550	Franklin Grange Cemetery	Franklin Grange Cemetery		44.16735	-123.30871	S	CMTY	US		OR	039			0	142	149	America/Los_Angeles	2006-01-15
+5737020	Little Franklin Creek	Little Franklin Creek		43.68178	-123.88594	H	STM	US		OR	019			0	110	163	America/Los_Angeles	2010-02-17
+5764918	Franklin Creek	Franklin Creek		43.88527	-101.56292	H	STM	US		SD	071			0	701	704	America/Denver	2010-02-17
+5764939	Township of Franklin	Township of Franklin	Franklin Township	45.63749	-100.26429	A	ADMD	US		SD	021			0	581	580	America/Chicago	2010-07-31
+5774085	Dry Fork Franklin Canyon	Dry Fork Franklin Canyon		40.92689	-111.49103	T	VAL	US		UT	043			0	1917	1920	America/Denver	2006-01-15
+5774975	Franklin	Franklin		40.74856	-111.90633	P	PPLX	US		UT	035			0	1289	1292	America/Denver	2007-02-15
+5774976	Franklin Canyon	Franklin Canyon		40.99467	-111.47353	T	VAL	US		UT	043			0	1651	1655	America/Denver	2010-02-18
+5774978	Franklin Place Addition	Franklin Place Addition		41.19967	-111.97439	P	PPLX	US		UT	057			0	1327	1329	America/Denver	2007-02-15
+5774979	Franklin School	Franklin School		40.76161	-111.92272	S	SCH	US		UT	035			0	1288	1292	America/Denver	2006-01-15
+5774980	Franklin School	Franklin School		40.2294	-111.67048	S	SCH	US		UT	049			0	1381	1384	America/Denver	2006-01-15
+5774985	Franklin Hill	Franklin Hill		41.91298	-112.56886	T	MT	US		UT	003			0	1798	1797	America/Denver	2006-01-15
+5780444	Right Fork Franklin Canyon	Right Fork Franklin Canyon		40.95078	-111.49687	T	VAL	US		UT	043			0	1803	1805	America/Denver	2010-02-18
+5786954	Benjamin Franklin Elementary School	Benjamin Franklin Elementary School		47.66209	-122.17354	S	SCH	US		WA	033			0	156	162	America/Los_Angeles	2010-02-18
+5786956	Benjamin Franklin Elementary School	Benjamin Franklin Elementary School		45.66039	-122.6776	S	SCH	US		WA	011			0	55	54	America/Los_Angeles	2006-01-15
+5794975	Franklin	Franklin		47.30093	-121.95289	P	PPL	US		WA	033			0	186	187	America/Los_Angeles	2006-01-15
+5794976	Franklin County	Franklin County	Comte de Franklin,Comté de Franklin	46.53477	-118.89889	A	ADM2	US		WA	021			78163	336	331	America/Los_Angeles	2013-03-08
+5794977	Franklin County Irrigation Canal	Franklin County Irrigation Canal		46.25791	-119.17862	H	CNL	US		WA	021			0	129	125	America/Los_Angeles	2010-02-18
+5794978	Franklin Creek	Franklin Creek		47.95313	-124.52549	H	STM	US		WA	009			0	40	62	America/Los_Angeles	2010-02-18
+5794980	Franklin Creek	Franklin Creek		47.30455	-121.95067	H	STM	US		WA	033			0	145	181	America/Los_Angeles	2006-01-15
+5794981	Franklin D Roosevelt Lake	Franklin D Roosevelt Lake		47.81601	-118.35094	H	RSV	US		WA	043			0	394	384	America/Los_Angeles	2011-12-12
+5794982	Franklin Elementary School	Franklin Elementary School		47.24982	-122.47818	S	SCH	US		WA	053			0	113	110	America/Los_Angeles	2006-01-15
+5794983	Franklin Elementary School	Franklin Elementary School		46.72489	-117.17989	S	SCH	US		WA	075			0	769	771	America/Los_Angeles	2006-01-15
+5794984	Franklin Falls	Franklin Falls		47.42483	-121.43287	H	OVF	US		WA	033			0	789	821	America/Los_Angeles	2010-09-05
+5794985	Franklin Field	Franklin Field		46.97315	-123.82322	L	PRK	US		WA	027			0	6	3	America/Los_Angeles	2006-01-15
+5794986	Franklin High School	Franklin High School		47.57613	-122.293	S	SCH	US		WA	033			0	27	33	America/Los_Angeles	2010-02-18
+5794987	Franklin Landing	Franklin Landing		47.56899	-122.23457	S		US		WA	033			0	5	14	America/Los_Angeles	2010-02-18
+5794988	Franklin Middle School	Franklin Middle School		46.59346	-120.53423	S	SCH	US		WA	077			0	336	336	America/Los_Angeles	2006-01-15
+5794989	Franklin Park	Franklin Park		47.24871	-122.4804	L	PRK	US		WA	053			0	122	116	America/Los_Angeles	2010-02-18
+5794990	Franklin Park	Franklin Park		47.70656	-117.41355	L	PRK	US		WA	063			0	629	626	America/Los_Angeles	2006-01-15
+5794991	Franklin Park	Franklin Park		46.59429	-120.53618	L	PRK	US		WA	077			0	341	336	America/Los_Angeles	2006-01-15
+5794992	Franklin Park Mall	Franklin Park Mall		47.70961	-117.41077	S	MALL	US		WA	063			0	630	628	America/Los_Angeles	2010-02-18
+5794993	Franklin Pierce High School	Franklin Pierce High School		47.15649	-122.40679	S	SCH	US		WA	053			0	126	123	America/Los_Angeles	2006-01-15
+5794994	Franklin School	Franklin School		47.64045	-117.3716	S	SCH	US		WA	063			0	665	662	America/Los_Angeles	2010-10-12
+5794995	Franklin Substation	Franklin Substation		46.23125	-119.04084	S	BLDG	US		WA	021			0	130	130	America/Los_Angeles	2006-01-15
+5795000	Franklin Elementary School	Franklin Elementary School		48.10357	-123.42345	S	SCH	US		WA	009			0	90	86	America/Los_Angeles	2010-02-18
+5825576	Franklin Dam	Franklin Dam		41.86161	-110.40405	S	DAM	US		WY	023			0	2156	2161	America/Denver	2006-01-15
+5825577	Franklin Mine	Franklin Mine		42.46884	-108.81373	S	MN	US		WY	013			0	2427	2430	America/Denver	2006-01-15
+5825578	Franklin Reservoir	Franklin Reservoir		41.86181	-110.40648	H	RSV	US		WY	023			0	2157	2156	America/Denver	2011-12-12
+5825579	Franklin Wash	Franklin Wash		41.0319	-109.71959	T	VAL	US		WY	037			0	1888	1890	America/Denver	2006-01-15
+5846406	Franklin Peaks	Franklin Peaks		57.13806	-133.03556	T	MT	US		AK	195			0	1136	1084	America/Juneau	2010-01-30
+5862539	Franklin	Franklin		64.16528	-141.77389	S		US		AK	240			0	555	502	America/Anchorage	2010-01-30
+5862540	Franklin Creek	Franklin Creek		69.15833	-145.77222	H	STM	US		AK	185			0	445	460	America/Anchorage	2006-01-15
+5862541	Franklin Bluffs	Franklin Bluffs		69.82278	-148.67861	T	CLF	US		AK	185			0	147	185	America/Anchorage	2010-01-30
+5862542	Franklin Creek	Franklin Creek		64.16361	-141.77444	H	STM	US		AK	240			0	459	502	America/Anchorage	2010-01-30
+5862543	Franklin Creek	Franklin Creek		62.60944	-158.09917	H	STM	US		AK	290			0	37	33	America/Anchorage	2006-01-15
+5862544	Franklin Creek	Franklin Creek		65.53611	-148.4975	H	STM	US		AK	290			0	245	252	America/Anchorage	2006-01-15
+5862545	Franklin Mountains	Franklin Mountains		69.14	-145.43889	T	MTS	US		AK	185			0	1582	1220	America/Anchorage	2010-09-05
+5862546	Point Franklin	Point Franklin		70.90778	-158.80861	T	CAPE	US		AK	185			0	1	-9999	America/Anchorage	2007-02-15
+5862554	Franklin Mountains	Franklin Mountains		69.16667	-145.16667	T	MTS	US		AK	185			0	1098	1095	America/Anchorage	2006-01-15
+6298551	Louisburg, Franklin County Airport	Louisburg, Franklin County Airport	Franklin County Airport,KLHZ,LFN,LHZ,Triangle North Executive Airport	36.02333	-78.33028	S	AIRP	US		NC				0	113	105	America/New_York	2011-03-13
+6325821	Saint Edward Health Facilities of Franklin County, Incorporated	Saint Edward Health Facilities of Franklin County, Incorporated		35.48576	-93.834	S	HSP	US		AR	047			0	132	133	America/Chicago	2007-02-16
+6326721	Borough of Franklin Park	Borough of Franklin Park		40.5903	-80.09986	A	ADMD	US		PA	003			13470	385	382	America/New_York	2013-03-08
+6328404	Franklin Middle School	Franklin Middle School		48.11389	-96.16111	S	SCH	US		MN	113			0	344	345	America/Chicago	2007-02-16
+6329154	Franklin Elementary Center	Franklin Elementary Center		39.2435	-81.55392	S	SCH	US		WV	107			0	223	222	America/New_York	2010-02-20
+6329155	Franklin Elementary School	Franklin Elementary School		38.64418	-79.33288	S	SCH	US		WV	071			0	544	538	America/New_York	2010-02-20
+6329375	Franklin Branch Public School	Franklin Branch Public School		37.87667	-122.29611	S	SCH	US		CA	001			0	12	12	America/Los_Angeles	2007-02-16
+6331311	Franklin Avenue Elementary School	Franklin Avenue Elementary School		41.05889	-74.0175	S	SCH	US		NY	087			0	76	78	America/New_York	2007-02-16
+6331673	Franklin School (historical)	Franklin School (historical)		43.84805	-87.89037	S	SCH	US		WI	117			0	253	254	America/Chicago	2010-02-19
+6332429	Franklin Houses	Franklin Houses		40.79139	-73.94194	P	PPLX	US		NY	061			0	6	7	America/New_York	2009-07-13
+6334510	Franklin Church of the Nazarene	Franklin Church of the Nazarene		39.51583	-86.07639	S	CH	US		IN	081			0	237	237	America/Indiana/Indianapolis	2010-02-20
+6338663	Franklin Square Jewish Center	Franklin Square Jewish Center		40.70889	-73.67806	S	CH	US		NY	059			0	20	20	America/New_York	2010-02-20
+6338664	Franklin Square Orthodox Presbyterian Church	Franklin Square Orthodox Presbyterian Church		40.70639	-73.67639	S	CH	US		NY	059			0	20	21	America/New_York	2007-02-16
+6339641	Warren - Franklin Hall	Warren - Franklin Hall		39.18472	-75.54361	S	BLDG	US		DE	001			0	9	13	America/New_York	2010-02-20
+6339944	Washington and Franklin Hall	Washington and Franklin Hall		37.76028	-77.48028	S	BLDG	US		VA	085			0	65	67	America/New_York	2010-02-20
+6340563	North Franklin Township Police Department	North Franklin Township Police Department		40.15211	-80.26675	S	BLDG	US		PA	125			0	322	329	America/New_York	2013-03-08
+6340911	Franklin Road Branch Indianapolis-Marion County Public Library	Franklin Road Branch Indianapolis-Marion County Public Library		39.6875	-86.01889	S	LIBR	US		IN	097			0	259	261	America/Indiana/Indianapolis	2010-02-20
+6341891	Baltimore County Fire Department Station 56 Franklin	Baltimore County Fire Department Station 56 Franklin		39.4432	-76.82662	S	BLDG	US		MD	005			0	208	213	America/New_York	2011-01-10
+6341952	Franklin County Rescue Squad	Franklin County Rescue Squad		36.9955	-79.8907	S	BLDG	US		VA	067			0	354	353	America/New_York	2013-03-08
+6343243	Franklin Hall	Franklin Hall		38.83222	-77.30528	S	BLDG	US		VA	600			0	135	135	America/New_York	2007-02-16
+6346188	Benjamin Franklin Dewees Runk Dining Hall	Benjamin Franklin Dewees Runk Dining Hall		38.02889	-78.51889	S	BLDG	US		VA	540			0	180	182	America/New_York	2007-02-16
+6346897	Franklin Park	Franklin Park		38.9712	-94.639	L	PRK	US		KS	091			0	292	301	America/Chicago	2010-02-20
+6347740	Franklin Park Savanna State Natural Area	Franklin Park Savanna State Natural Area		42.86361	-88.04278	L	PRK	US		WI	079			0	235	240	America/Chicago	2007-02-16
+6349641	Franklin D Roosevelt Station New York Post Office	Franklin D Roosevelt Station New York Post Office		40.75861	-73.96889	S	PO	US		NY	061			0	11	29	America/New_York	2007-02-16
+6349931	Franklin Square Post Office	Franklin Square Post Office		40.70667	-73.67194	S	PO	US		NY	059			0	17	18	America/New_York	2007-02-16
+6351631	Franklin Cemetery	Franklin Cemetery		38.1544	-83.36868	S	CMTY	US		KY	205			0	272	271	America/New_York	2007-02-16
+6462982	Super 8 Franklin	Super 8 Franklin		39.4806	-86.055	S	HTL	US		IN	081			0		225	America/Indiana/Indianapolis	2007-04-13
+6463186	Residence Inn by Marriott Boston-Franklin	Residence Inn by Marriott Boston-Franklin		42.0908	-71.4349	S	HTL	US		MA				0		64	America/New_York	2007-04-13
+6465829	Country Inn & Suites - Cool Springs / Franklin	Country Inn & Suites - Cool Springs / Franklin		35.952	-86.816	S	HTL	US		TN	187			0		212	America/Chicago	2007-04-13
+6465869	Quality Inn Franklin	Quality Inn Franklin		39.54	-84.2	S	HTL	US		OH	165			0		255	America/New_York	2007-04-13
+6466764	Hawthorn Franklin	Hawthorn Franklin		42.0622	-71.4008	S	HTL	US		MA				0		111	America/New_York	2007-04-13
+6469794	Marriott Franklin Cool Springs	Marriott Franklin Cool Springs		35.9466	-86.8101	S	HTL	US		TN	187			0		228	America/Chicago	2007-04-13
+6472103	Ramada Inn and Suites - Franklin / Cool Springs	Ramada Inn and Suites - Franklin / Cool Springs		35.911	-86.8166	S	HTL	US		TN	187			0		217	America/Chicago	2007-04-13
+6474336	Knights Inn Franklin Middletwn	Knights Inn Franklin Middletwn		39.5641	-84.2696	S	HTL	US		OH	165			0		249	America/New_York	2007-04-13
+6474741	Ramada Inn Middletown/Franklin	Ramada Inn Middletown/Franklin		39.4929	-84.319	S	HTL	US		OH	165			0		221	America/New_York	2007-04-13
+6474749	La Quinta Inn Nashville-Franklin	La Quinta Inn Nashville-Franklin		35.8989	-86.8092	S	HTL	US		TN	187			0		251	America/Chicago	2007-04-13
+6475266	Days Inn Franklin Ky	Days Inn Franklin Ky		36.7153	-86.5225	S	HTL	US		KY	213			0		208	America/Chicago	2007-04-13
+6475980	The Franklin Hotel	The Franklin Hotel		40.7799	-73.9547	S	HTL	US		NY				0		43	America/New_York	2007-04-13
+6480383	Howard Johnson Express Hotel - Franklin	Howard Johnson Express Hotel - Franklin		39.4824	-86.0176	S	HTL	US		IN	081			0		230	America/Indiana/Indianapolis	2007-04-12
+6481426	Days Inn Franklin	Days Inn Franklin		36.6694	-76.9503	S	HTL	US		VA	620			0		10	America/New_York	2007-04-12
+6483666	Days Inn Franklin Tn	Days Inn Franklin Tn		35.8789	-86.793	S	HTL	US		TN	187			0		200	America/Chicago	2007-04-12
+6483930	Super 7 Franklin	Super 7 Franklin		39.483	-86.02	S	HTL	US		IN	081			0		229	America/Indiana/Indianapolis	2007-04-12
+6488428	Days Inn Franklin Nc	Days Inn Franklin Nc		35.1917	-83.3666	S	HTL	US		NC	113			0		644	America/New_York	2007-04-12
+6496332	Super 8 Franklin Ky	Super 8 Franklin Ky		36.67	-86.558	S	HTL	US		KY	213			0		218	America/Chicago	2007-04-14
+6501376	Super 8 Franklin Pa	Super 8 Franklin Pa		41.4077	-79.7959	S	HTL	US		PA	121			0		302	America/New_York	2007-04-14
+6503658	Best Western Franklin Park Suites - Polaris	Best Western Franklin Park Suites - Polaris		40.144	-82.97	S	HTL	US		OH	041			0		275	America/New_York	2007-04-14
+6504062	Comfort Inn Franklin	Comfort Inn Franklin		39.4815	-86.0181	S	HTL	US		IN	081			0		231	America/Indiana/Indianapolis	2007-04-13
+6504542	Super 8 Franklin Middletown	Super 8 Franklin Middletown		39.4956	-84.322	S	HTL	US		OH	165			0		219	America/New_York	2007-04-13
+6504693	Super 8 Franklin Va	Super 8 Franklin Va		36.6664	-76.9578	S	HTL	US		VA	620			0		10	America/New_York	2007-04-14
+6505099	Microtel Franklin	MICROTEL FRANKLIN		35.1621	-83.3909	S	HTL	US		NC	113			0		650	America/New_York	2007-04-13
+6506800	Esa Somerset-Franklin	ESA SOMERSET-FRANKLIN		40.533	-74.5156	S	HTL	US		NJ	035			0		23	America/New_York	2007-04-13
+6509522	Best Western Franklin Inn	BEST WESTERN FRANKLIN INN		35.91524	-86.82869	S	HTL	US		TN	187			0		224	America/Chicago	2007-04-13
+6510205	Hampton Inn Franklin	HAMPTON INN FRANKLIN		42.0655	-71.3972	S	HTL	US		MA				0		115	America/New_York	2007-04-13
+6510885	Homestead Nashville-Franklin	HOMESTEAD NASHVILLE-FRANKLIN		35.9586	-86.8037	S	HTL	US		TN	187			0		234	America/Chicago	2007-04-13
+6512981	Hampton Inn Franklin Ky	HAMPTON INN FRANKLIN KY		36.6685	-86.5577	S	HTL	US		KY	213			0		219	America/Chicago	2007-04-13
+6513720	Hampton Inn Franklin	HAMPTON INN FRANKLIN		35.1841	-83.3562	S	HTL	US		NC	113			0		665	America/New_York	2007-04-12
+6513861	Comfort Inn Franklin	COMFORT INN FRANKLIN		36.6671	-76.9556	S	HTL	US		VA	620			0		12	America/New_York	2007-04-13
+6515405	Comfort Inn Franklin	COMFORT INN FRANKLIN		35.9102	-86.8225	S	HTL	US		TN	187			0		222	America/Chicago	2007-04-12
+6516183	Econo Lodge Franklin	ECONO LODGE FRANKLIN		39.5586	-84.2756	S	HTL	US		OH	165			0		228	America/New_York	2007-04-12
+6521096	Best Western Franklin Inn Stes	BEST WESTERN FRANKLIN INN STES		31.0605	-96.4214	S	HTL	US		TX	395			0		137	America/Chicago	2007-04-15
+6523099	Shoneys Inn Franklin	SHONEYS INN FRANKLIN		39.5407	-84.288	S	HTL	US		OH	165			0		222	America/New_York	2007-04-14
+6530447	Best Western Franklin Square	BEST WESTERN FRANKLIN SQUARE		47.122	-88.5643	S	HTL	US		MI				0		203	America/Detroit	2007-04-14
+6531247	Best Western Franklin Inn	BEST WESTERN FRANKLIN INN		36.6683	-86.5578	S	HTL	US		KY	213			0		219	America/Chicago	2007-04-14
+6532277	Comfort Inn Franklin	COMFORT INN FRANKLIN		35.1835	-83.3564	S	HTL	US		NC	113			0		660	America/New_York	2007-04-14
+6545047	Franklin and Marshall College	Franklin and Marshall College		40.0472	-76.3203	S	SCHC	US		PA	071			0		129	America/New_York	2007-06-15
+6954911	Westfield Franklin Park	Westfield Franklin Park		41.69808	-83.64221	S	MALL	US		OH	095			0		193	America/New_York	2009-10-13
+7119093	Franklin Steele Park	Franklin Steele Park		44.96667	-93.26833	L	PRK	US		MN	053			0	260	259	America/Chicago	2010-01-31
+7119865	Franklin Hall	Franklin Hall		34.08722	-118.29222	S	BLDG	US		CA	037			0	93	99	America/Los_Angeles	2007-08-01
+7123408	Franklin Township Park	Franklin Township Park		39.68083	-86.00889	L	PRK	US		IN	097			0	253	254	America/Indiana/Indianapolis	2010-01-31
+7123409	Franklin Township Hall	Franklin Township Hall		39.67806	-86.06222	S	BLDG	US		IN	097			0	256	259	America/Indiana/Indianapolis	2010-01-31
+7123745	Franklin Township Fire Department Station 54	Franklin Township Fire Department Station 54		39.65124	-86.05351	S	BLDG	US		IN	097			0	257	257	America/Indiana/Indianapolis	2011-03-10
+7123746	Franklin Township Fire Department Station 53	Franklin Township Fire Department Station 53		39.67799	-86.06213	S	BLDG	US		IN	097			0	256	259	America/Indiana/Indianapolis	2011-03-10
+7123747	Franklin Township Fire Department Station 51	Franklin Township Fire Department Station 51		39.70694	-86.01293	S	BLDG	US		IN	097			0	256	257	America/Indiana/Indianapolis	2011-03-10
+7123751	Franklin Township Fire Department Station 52	Franklin Township Fire Department Station 52		39.65616	-85.96645	S	BLDG	US		IN	097			0	241	241	America/Indiana/Indianapolis	2011-03-10
+7126075	Franklin Cemetery	Franklin Cemetery		42.01833	-84.06306	S	CMTY	US		MI	091			0	277	276	America/Detroit	2008-07-03
+7126359	Benjamin Franklin Elementary School	Benjamin Franklin Elementary School		43.16525	-88.09258	S	SCH	US		WI	133			0	245	247	America/Chicago	2013-03-08
+7126599	Benjamin Franklin Hall	Benjamin Franklin Hall		41.00667	-76.44861	S	BLDG	US		PA	037			0	201	203	America/New_York	2010-01-31
+7126635	Benjamin Franklin Hall	Benjamin Franklin Hall		39.0475	-76.85194	S	BLDG	US		MD	033			0	56	55	America/New_York	2010-01-31
+7126835	Benjamin Franklin Fackenthal Laboratory	Benjamin Franklin Fackenthal Laboratory		40.04778	-76.32028	S	BLDG	US		PA	071			0	123	129	America/New_York	2010-01-31
+7126836	Benjamin Franklin Residence Halls	Benjamin Franklin Residence Halls		40.04833	-76.32139	S	BLDG	US		PA	071			0	121	120	America/New_York	2010-01-31
+7127056	T Franklin Soles Hall	T Franklin Soles Hall		40.69944	-75.2075	S	BLDG	US		PA	095			0	105	113	America/New_York	2010-01-31
+7127210	Franklin Science Center	Franklin Science Center		40.06167	-77.52028	S	BLDG	US		PA	041			0	201	204	America/New_York	2010-01-31
+7127395	Benjamin Franklin House	Benjamin Franklin House		40.275	-79.52972	S	BLDG	US		PA	129			0	316	314	America/New_York	2010-01-31
+7128092	Franklin Volunteer Fire Department	Franklin Volunteer Fire Department		36.17211	-91.77571	S	BLDG	US		AR	065			0	188	191	America/Chicago	2010-01-31
+7129376	Franklin City Hall	Franklin City Hall		42.89861	-88.02889	S	BLDG	US		WI	079			0	238	240	America/Chicago	2010-01-31
+7129991	Franklin County Sheriff's Office	Franklin County Sheriff's Office		35.48569	-93.82586	S	BLDG	US		AR	047			0	119	124	America/Chicago	2010-01-31
+7130203	Franklin County Emergency Medical Services	Franklin County Emergency Medical Services		35.49026	-93.82532	S	BLDG	US		AR	047			0	121	127	America/Chicago	2010-01-31
+7130243	Franklin Volunteer Fire and Rescue Violet Hill	Franklin Volunteer Fire and Rescue Violet Hill		36.15368	-91.84024	S	BLDG	US		AR	065			0	236	232	America/Chicago	2011-03-10
+7130805	Franklin School (historical)	Franklin School (historical)		48.82333	-96.75417	S	SCH	US		MN	069			0	282	279	America/Chicago	2010-01-31
+7131723	Franklin Fire and Rescue	Franklin Fire and Rescue		44.98145	-72.9151	S	BLDG	US		VT	011			0	138	135	America/New_York	2010-01-31
+7132134	Franklin Mine Post Office (historical)	Franklin Mine Post Office (historical)		47.14	-88.57306	S	PO	US		MI	061			0	361	362	America/Detroit	2010-01-31
+7132417	Franklinton Community of Hope Church	Franklinton Community of Hope Church		39.95861	-83.03167	S	CH	US		OH	049			0	219	216	America/New_York	2010-01-31
+7133151	Franklin Elementary School	Franklin Elementary School		47.46583	-92.53167	S	SCH	US		MN	137			0	513	514	America/Chicago	2010-01-31
+7135815	Franklin Montessori School	Franklin Montessori School		39.10085	-77.21765	S	SCH	US		MD	031			0	128	128	America/New_York	2010-01-31
+7136828	Baltimore County Police Department Precinct 3 - Franklin	Baltimore County Police Department Precinct 3 - Franklin		39.44383	-76.82792	S	BLDG	US		MD	005			0	206	210	America/New_York	2010-01-31
+7136924	Franklin Fire and Rescue Department	Franklin Fire and Rescue Department		36.67745	-76.92094	S	BLDG	US		VA	620			0	5	9	America/New_York	2011-03-10
+7137007	Franklin Fire and Rescue Pretlow Auxiliary Station 1A	Franklin Fire and Rescue Pretlow Auxiliary Station 1A		36.66982	-76.92436	S	BLDG	US		VA	620			0	8	12	America/New_York	2011-03-10
+7137108	Franklin Police Department	Franklin Police Department		36.66265	-76.91913	S	BLDG	US		VA	620			0	9	11	America/New_York	2011-01-10
+7137121	Franklin City District Court	Franklin City District Court		36.66398	-76.91974	S	BLDG	US		VA	620			0	8	9	America/New_York	2011-01-10
+7137303	Franklin Fire Department	Franklin Fire Department		29.79057	-91.50143	S	BLDG	US		LA	101			0	3	6	America/Chicago	2010-01-31
+7137482	Franklinton Volunteer Fire Department	Franklinton Volunteer Fire Department		30.84346	-90.15575	S	BLDG	US		LA	117			0	45	46	America/Chicago	2011-12-12
+7137737	Forts Lake - Franklin Creek Volunteer Fire Department Station 1	Forts Lake - Franklin Creek Volunteer Fire Department Station 1		30.49653	-88.41552	S	BLDG	US		MS	059			0	5	6	America/Chicago	2011-12-12
+7138907	Franklinton Police Department	Franklinton Police Department		30.84344	-90.15581	S	BLDG	US		LA	117			0	45	46	America/Chicago	2010-01-31
+7139009	Franklinton Police Department - Equipment Yard	Franklinton Police Department - Equipment Yard		30.85189	-89.95	S	BLDG	US		LA	117			0	94	101	America/Chicago	2010-01-31
+7139035	Franklin Police Department	Franklin Police Department		29.79035	-91.50211	S	BLDG	US		LA	101			0	3	10	America/Chicago	2010-01-31
+7139085	Franklinton Police Department - Equipment Yard	Franklinton Police Department - Equipment Yard		30.84277	-90.15768	S	BLDG	US		LA	117			0	44	44	America/Chicago	2010-01-31
+7141417	Franklin Cemetery	Franklin Cemetery		38.02799	-82.58603	S	CMTY	US		KY	127			0	221	227	America/New_York	2012-04-10
+7143257	Benjamin Franklin Classical Charter School	Benjamin Franklin Classical Charter School		42.0891	-71.4007	S	SCH	US		MA	021			0	99	102	America/New_York	2010-01-31
+7143517	Franklin ECDC School	Franklin ECDC School		42.1029	-71.378	S	SCH	US		MA	021			0	68	77	America/New_York	2010-01-31
+7143840	Franklin Road Church of Christ	Franklin Road Church of Christ		42.6044	-83.2883	S	CH	US		MI	125			0	286	287	America/Detroit	2010-02-01
+7143841	Franklin Village Hall	Franklin Village Hall		42.5236	-83.3066	S	BLDG	US		MI	125			0	254	261	America/Detroit	2010-02-01
+7144317	Benjamin Franklin Library	Benjamin Franklin Library		42.4271	-82.984	S	LIBR	US		MI	163			0	188	190	America/Detroit	2010-07-31
+7146419	Benjamin Franklin Academy	Benjamin Franklin Academy		33.79981	-84.32417	S	SCH	US		GA	089			0	308	320	America/New_York	2009-05-28
+7147696	Franklin Center Post Office	Franklin Center Post Office		39.9052	-75.4542	S	PO	US		PA	045			0	74	81	America/New_York	2007-10-23
+7150135	Benjamin Franklin Elementary School	Benjamin Franklin Elementary School		40.27693	-74.72012	S	SCH	US		NJ	021			0	29	34	America/New_York	2008-01-22
+7150871	Franklins Mill Post Office (historical)	Franklins Mill Post Office (historical)		38.32614	-83.58959	S	PO	US		KY	069			0	214	212	America/New_York	2010-02-01
+7150872	Franklins Mill School (historical)	Franklins Mill School (historical)		38.32617	-83.58959	S	SCH	US		KY	069			0	214	212	America/New_York	2010-02-01
+7151392	Columbus Division of Fire Station 10 Franklinton Engine House	Columbus Division of Fire Station 10 Franklinton Engine House		39.95891	-83.02984	S	BLDG	US		OH	049			0	218	218	America/New_York	2009-05-14
+7154452	Franklin Graveyard	Franklin Graveyard		34.39444	-84.86611	S	CMTY	US		GA	015			0	250	253	America/New_York	2007-12-19
+7155668	Franklin Square Grade School (historical)	Franklin Square Grade School (historical)		40.70778	-73.67194	S	SCH	US		NY	059			0	20	19	America/New_York	2010-02-01
+7156933	Franklin Charter School	Franklin Charter School		40.5342	-74.51572	S	SCH	US		NJ	035			0	24	23	America/New_York	2010-02-01
+7157363	Franklin Middle School	Franklin Middle School		40.48964	-74.48719	S	SCH	US		NJ	035			0	36	36	America/New_York	2010-02-01
+7157364	Franklin Township Adult High School	Franklin Township Adult High School		40.48966	-74.48733	S	SCH	US		NJ	035			0	36	36	America/New_York	2010-02-01
+7157531	Franklin Elementary School	Franklin Elementary School		40.20583	-74.74018	S	SCH	US		NJ	021			0	15	18	America/New_York	2010-02-01
+7157703	Franklin Township Elementary School	Franklin Township Elementary School		40.7277	-75.049	S	SCH	US		NJ	041			0	110	110	America/New_York	2010-02-01
+7157987	Franklin Park Performing and Visual Arts Center	Franklin Park Performing and Visual Arts Center		39.13	-77.74611	L	PRK	US		VA	107			0	171	170	America/New_York	2010-02-01
+7158053	Franklin Cemetery	Franklin Cemetery		41.97111	-86.22361	S	CMTY	US		MI	021			0	241	243	America/Detroit	2010-02-01
+7158254	Franklin Park	Franklin Park		43.4575	-76.51528	L	PRK	US		NY	075			0	89	91	America/New_York	2010-02-01
+7158525	Franklin Memorial Garden	Franklin Memorial Garden		40.82639	-73.90528	L	PRK	US		NY	005			0	27	33	America/New_York	2010-02-01
+7158526	Franklin Triangle	Franklin Triangle		40.8275	-73.90722	L	PRK	US		NY	005			0	11	13	America/New_York	2010-02-01
+7161357	Town of Franklin	Town of Franklin		38.6452	-79.33312	A	ADMD	US		WV	071			721	547	551	America/New_York	2013-03-08
+7161624	Village of Franklin	Village of Franklin		42.34167	-75.16596	A	ADMD	US		NY	025			374	375	381	America/New_York	2011-05-14
+7161625	Village of Franklinville	Village of Franklinville		42.33475	-78.45477	A	ADMD	US		NY	009			1740	485	491	America/New_York	2013-03-08
+7162688	Franklin Square	Franklin Square		42.73389	-73.68833	L	PRK	US		NY	083			0	9	7	America/New_York	2010-02-03
+7163594	City of Franklin	City of Franklin		39.55383	-84.29501	A	ADMD	US		OH	165			11771	209	216	America/New_York	2013-03-08
+7163595	City of Franklin	City of Franklin		39.49349	-86.05408	A	ADMD	US		IN	081			23712	226	227	America/Indiana/Indianapolis	2013-03-08
+7163596	City of Franklin	City of Franklin		40.66697	-91.5118	A	ADMD	US		IA	111			143	211	214	America/Chicago	2013-03-08
+7163597	City of Franklin	City of Franklin		39.01115	-92.75503	A	ADMD	US		MO	089			95	181	188	America/Chicago	2011-05-14
+7163809	City of New Franklin	City of New Franklin		40.95249	-81.58387	A	ADMD	US		OH	153			14227	354	353	America/New_York	2011-05-14
+7163810	City of New Franklin	City of New Franklin		39.01748	-92.74059	A	ADMD	US		MO	089			1089	199	205	America/Chicago	2011-05-14
+7166605	Village of Franklin	Village of Franklin		39.62126	-90.0478	A	ADMD	US		IL	137			610	210	213	America/Chicago	2013-03-08
+7166606	Village of Franklin Grove	Village of Franklin Grove		41.84095	-89.30056	A	ADMD	US		IL	103			1021	245	248	America/Chicago	2013-03-08
+7168440	Franklin Woods Mobile Home Park	Franklin Woods Mobile Home Park		41.79444	-86.24583	P	PPL	US		MI	021			0	225	228	America/Detroit	2010-02-03
+7168620	Franklin Volunteer Fire Company 1	Franklin Volunteer Fire Company 1		40.07176	-74.72059	S	BLDG	US		NJ	005			0	23	25	America/New_York	2011-03-10
+7168639	Franklinville Volunteer Fire Company 1	Franklinville Volunteer Fire Company 1		39.61758	-75.08142	S	BLDG	US		NJ	015			0	31	33	America/New_York	2011-03-10
+7169215	Franklin Square	Franklin Square		42.255	-73.79722	L	PRK	US		NY	021			0	10	7	America/New_York	2010-02-03
+7169476	City of Franklin	City of Franklin		36.71706	-86.55851	A	ADMD	US		KY	213			8408	210	211	America/Chicago	2013-03-08
+7169477	City of Franklin	City of Franklin		29.78506	-91.50978	A	ADMD	US		LA	101			7660	1	4	America/Chicago	2013-03-08
+7169478	City of Franklin Springs	City of Franklin Springs		34.28402	-83.14589	A	ADMD	US		GA	119			952	250	250	America/New_York	2013-03-08
+7171754	Town of Franklin	Town of Franklin		32.45509	-85.80665	A	ADMD	US		AL	087			149	116	120	America/Chicago	2011-05-14
+7171755	Town of Franklin	Town of Franklin		36.17193	-91.77712	A	ADMD	US		AR	065			198	190	198	America/Chicago	2013-03-08
+7171756	Town of Franklin	Town of Franklin		35.17993	-83.38121	A	ADMD	US		NC	113			3845	628	627	America/New_York	2013-03-08
+7171757	Town of Franklinton	Town of Franklinton		30.84795	-90.14588	A	ADMD	US		LA	117			3857	51	58	America/Chicago	2013-03-08
+7171758	Town of Franklinton	Town of Franklinton		36.10124	-78.45209	A	ADMD	US		NC	069			2023	123	120	America/New_York	2013-03-08
+7171759	Town of Franklinville	Town of Franklinville		35.74205	-79.68915	A	ADMD	US		NC	151			1164	139	141	America/New_York	2013-03-08
+7172783	Franklin Park	Franklin Park		26.13406	-80.1762	P	PPL	US		FL	011			860	1	8	America/New_York	2011-05-14
+7173451	City of Franklin	City of Franklin		42.01245	-111.80393	A	ADMD	US		ID	041			641	1372	1375	America/Boise	2013-03-08
+7173452	City of Franklin	City of Franklin		31.02548	-96.48564	A	ADMD	US		TX	395			1564	137	136	America/Chicago	2013-03-08
+7176178	Franklin Sidewalk	Franklin Sidewalk		37.5326	-94.7049	R	TRL	US		KS	037			0	306	307	America/Chicago	2008-03-13
+7176179	Franklin Community Park	Franklin Community Park		37.52114	-94.70486	L	PRK	US		KS	037			0	299	301	America/Chicago	2010-02-03
+7176180	Franklin Community Center & Heritage Museum	Franklin Community Center & Heritage Museum		37.52114	-94.70486	S	MUS	US		KS	037			0	299	301	America/Chicago	2010-02-03
+7177397	Franklin County Welfare Home	Franklin County Welfare Home		44.835	-74.32389	S	BLDG	US		NY	033			0	272	270	America/New_York	2010-02-03
+7177400	Franklin County Court House	Franklin County Court House		44.84889	-74.295	S	BLDG	US		NY	033			0	218	219	America/New_York	2010-02-03
+7177401	Franklin County Jail	Franklin County Jail		44.84917	-74.29528	S	BLDG	US		NY	033			0	218	219	America/New_York	2010-02-03
+7180434	Franklin W Olin Humanities Building And Auditorium	Franklin W Olin Humanities Building And Auditorium		42.02194	-73.90528	S	BLDG	US		NY	027			0	55	56	America/New_York	2010-02-05
+7181159	Franklin Northwest Supervisory Union	Franklin Northwest Supervisory Union		44.91643	-73.11067	S	SCH	US		VT	011			0	46	47	America/New_York	2010-02-05
+7181197	Franklin Central Supervisory Union	Franklin Central Supervisory Union		44.81011	-73.08611	S	SCH	US		VT	011			0	120	117	America/New_York	2010-02-05
+7182922	Franklin Park Borough Hall	Franklin Park Borough Hall		40.58088	-80.07874	S	BLDG	US		PA	003			0	382	375	America/New_York	2010-02-05
+7182923	Franklin Park Police Department	Franklin Park Police Department		40.58088	-80.07874	S	BLDG	US		PA	003			0	382	375	America/New_York	2010-02-05
+7183472	North Franklin Township Municipal Building	North Franklin Township Municipal Building		40.15211	-80.26675	S	BLDG	US		PA	125			0	327	329	America/New_York	2010-02-05
+7183659	South Franklin Township Municipal Building	South Franklin Township Municipal Building		40.12398	-80.29138	S	BLDG	US		PA	125			0	329	329	America/New_York	2010-02-05
+7183843	Franklin Park Baptist Church	Franklin Park Baptist Church		40.59954	-80.09862	S	CH	US		PA	003			0	363	367	America/New_York	2010-02-05
+7185562	Franklin Middle School	Franklin Middle School		44.99414	-93.29003	S	SCH	US		MN	053			0	258	253	America/Chicago	2010-02-05
+7185819	Franklin Music Magnet School	Franklin Music Magnet School		44.95852	-93.09744	S	SCH	US		MN	123			0	267	266	America/Chicago	2010-02-05
+7192632	Brevard County Public Library System Franklin T Degroodt Memorial Library	Brevard County Public Library System Franklin T Degroodt Memorial Library		27.99626	-80.67037	S	LIBR	US		FL	009			0	7	12	America/New_York	2010-07-31
+7194046	Franklin Fire Department Station 1	Franklin Fire Department Station 1		35.92475	-86.88052	S	BLDG	US		TN	187			0	199	200	America/Chicago	2011-03-10
+7194384	John Hope Franklin Center	John Hope Franklin Center		36.0082	-78.9343	S	BLDG	US		NC	063			0	125	128	America/New_York	2010-02-05
+7195247	Franklin Street Plaza Shopping Center	Franklin Street Plaza Shopping Center		35.91364	-79.05527	S	MALL	US		NC	135			0	148	152	America/New_York	2010-02-05
+7195291	Franklin Street Post Office	Franklin Street Post Office		35.91393	-79.05428	S	PO	US		NC	135			0	146	148	America/New_York	2010-02-05
+7195328	Franklin D Roosevelt Senior High School	Franklin D Roosevelt Senior High School		41.82639	-73.90222	S	SCH	US		NY	027			0	79	80	America/New_York	2010-02-05
+7198591	Benjamin Franklin Post Office	Benjamin Franklin Post Office		38.8948	-77.0289	S	PO	US		DC	001			0	4	15	America/New_York	2010-02-05
+7198778	The Franklin Montessori School	The Franklin Montessori School		38.9475	-77.065	S	SCH	US		DC	001			0	70	79	America/New_York	2010-02-05
+7199042	Franklin Street Baptist Church	Franklin Street Baptist Church		38.25606	-85.73463	S	CH	US		KY	111			0	140	143	America/Kentucky/Louisville	2010-02-05
+7199527	Breckinridge-Franklin Elementary School	Breckinridge-Franklin Elementary School		38.25053	-85.72125	S	SCH	US		KY	111			0	140	139	America/Kentucky/Louisville	2010-02-05
+7202813	Franklin Barn Childrens Center	Franklin Barn Childrens Center		38.91279	-77.38637	S	SCH	US		VA	059			0	124	123	America/New_York	2010-02-05
+7204927	Franklin East Elementary School	Franklin East Elementary School		33.40007	-111.79376	S	SCH	US		AZ	013			0	377	377	America/Phoenix	2009-02-26
+7204928	Franklin High School	Franklin High School		33.35064	-111.77149	S	SCH	US		AZ	013			0	381	379	America/Phoenix	2010-02-05
+7204929	Franklin High School	Franklin High School		33.41455	-111.70919	S	SCH	US		AZ	013			0	415	412	America/Phoenix	2010-02-05
+7204930	Franklin Northeast Elementary School	Franklin Northeast Elementary School		33.43273	-111.67941	S	SCH	US		AZ	013			0	451	449	America/Phoenix	2009-02-26
+7204931	Franklin South Elementary School	Franklin South Elementary School		33.39304	-111.72309	S	SCH	US		AZ	013			0	400	398	America/Phoenix	2009-02-26
+7204932	Franklin West Elementary School	Franklin West Elementary School		33.40965	-111.82977	S	SCH	US		AZ	013			0	378	377	America/Phoenix	2009-02-26
+7212414	Franklin Street Baptist Church	Franklin Street Baptist Church		30.35329	-81.6386	S	CH	US		FL	031			0	5	13	America/New_York	2010-02-06
+7213662	C A Franklin Elementary School	C A Franklin Elementary School		39.06441	-94.56415	S	SCH	US		MO	095			0	295	298	America/Chicago	2009-04-23
+7213691	Franklin Smith Elementary School	Franklin Smith Elementary School		39.00298	-94.28286	S	SCH	US		MO	095			0	299	304	America/Chicago	2009-04-23
+7213737	Lucy Franklin Elementary School	Lucy Franklin Elementary School		39.04572	-94.26043	S	SCH	US		MO	095			0	303	305	America/Chicago	2009-04-23
+7215124	Franklin Magnet School	Franklin Magnet School		44.9586	-93.0971	S	SCH	US		MN	123			0	267	266	America/Chicago	2010-02-06
+7217719	Franklin Creek Estates	Franklin Creek Estates		28.0818	-82.231	P	PPL	US		FL	057			0	19	26	America/New_York	2010-02-06
+7217720	Franklin Place	Franklin Place		27.9657	-82.4502	P	PPL	US		FL	057			0	12	21	America/New_York	2010-02-06
+7217721	Franklin Reserve	Franklin Reserve		28.0857	-82.2327	P	PPL	US		FL	057			0	18	25	America/New_York	2010-02-06
+7217722	Franklin Woodlands	Franklin Woodlands		28.0818	-82.2306	P	PPL	US		FL	057			0	19	26	America/New_York	2010-02-06
+7220838	Franklin Mini-park	Franklin Mini-park		40.33486	-75.6315	L	PRK	US		PA	011			0	116	113	America/New_York	2010-02-06
+7220953	Ben Franklin Inn	Ben Franklin Inn		40.26419	-75.75121	S	BLDG	US		PA	011			0	53	52	America/New_York	2010-02-06
+7221416	Reading Franklin Street Station	Reading Franklin Street Station		40.33301	-75.92428	S	BLDG	US		PA	011			0	84	81	America/New_York	2010-02-06
+7222930	The Franklin G Burroughs - Simeon B Chapin Art Museum	The Franklin G Burroughs - Simeon B Chapin Art Museum		33.6588	-78.9198	S	MUS	US		SC	051			0	4	-8	America/New_York	2010-02-06
+7224075	Franklin Adult Education Learning Center	Franklin Adult Education Learning Center		29.80533	-91.50538	S	SCH	US		LA	101			0	2	5	America/Chicago	2010-02-06
+7224076	Louisiana Technical College Franklin Branch Campus	Louisiana Technical College Franklin Branch Campus		29.8046	-91.50129	S	SCH	US		LA	101			0	2	8	America/Chicago	2010-02-06
+7226070	Franklin County Education Center	Franklin County Education Center		37.00392	-79.88161	S	SCH	US		VA	067			0	343	343	America/New_York	2010-02-06
+7226684	Franklin Career Charter Academy	Franklin Career Charter Academy		43.44258	-71.64715	S	SCH	US		NH	013			0	98	98	America/New_York	2010-02-06
+7226706	Franklin Pierce University at Portsmouth	Franklin Pierce University at Portsmouth		43.08636	-70.79937	S	SCH	US		NH	015			0	23	21	America/New_York	2010-02-06
+7226801	Franklin Pierce University	Franklin Pierce University		42.78104	-72.05729	S	SCH	US		NH	005			0	336	341	America/New_York	2010-02-06
+7229322	Franklin County Sheriff's Office	Franklin County Sheriff's Office		38.61397	-95.26827	S	BLDG	US		KS	059			0	276	281	America/Chicago	2010-02-06
+7229597	Franklin County Juvenile Detention Center	Franklin County Juvenile Detention Center		38.61399	-95.26807	S	BLDG	US		KS	059			0	276	281	America/Chicago	2010-02-06
+7231141	West Franklin Learning Center	West Franklin Learning Center		38.52162	-95.47085	S	SCH	US		KS	059			0	336	339	America/Chicago	2010-02-06
+7231142	West Franklin Unified School District Office	West Franklin Unified School District Office		38.60905	-95.44546	S	SCH	US		KS	059			0	293	298	America/Chicago	2010-02-06
+7231278	West Franklin Middle School	West Franklin Middle School		38.61	-95.44566	S	SCH	US		KS	059			0	295	299	America/Chicago	2010-02-06
+7231339	West Franklin High School	West Franklin High School		38.60913	-95.4449	S	SCH	US		KS	059			0	294	297	America/Chicago	2010-02-06
+7232085	Bethany Church of Franklin Oregon	Bethany Church of Franklin Oregon		44.08472	-123.34278	S	CH	US		OR	039			0	118	123	America/Los_Angeles	2010-02-06
+7232240	Franklin	Franklin		37.97871	-84.13977	P	PPL	US		KY	049			0	279	277	America/New_York	2010-02-06
+7236932	Benjamin Franklin Charter School - Queen Creek	Benjamin Franklin Charter School - Queen Creek		33.25968	-111.61665	S	SCH	US		AZ	013			0	434	431	America/Phoenix	2010-02-06
+7237083	Benjamin Franklin Charter School	Benjamin Franklin Charter School		33.45844	-111.81308	S	SCH	US		AZ	013			0	375	377	America/Phoenix	2010-02-06
+7237120	Benjamin Franklin Charter School	Benjamin Franklin Charter School		33.33626	-111.78619	S	SCH	US		AZ	013			0	379	376	America/Phoenix	2010-02-06
+7237931	Southeastern Public Service Authority Franklin Transfer Station	Southeastern Public Service Authority Franklin Transfer Station		36.65981	-76.98387	S		US		VA	175			0	13	12	America/New_York	2013-03-08
+7238276	Journey Church of Franklin	Journey Church of Franklin		39.48008	-86.05458	S	CH	US		IN	081			0	221	224	America/Indiana/Indianapolis	2010-02-06
+7239230	Franklin City Hall	Franklin City Hall		36.67687	-76.9237	S	BLDG	US		VA	620			0	4	11	America/New_York	2010-02-06
+7240546	Franklin Phonetic School	Franklin Phonetic School		34.58133	-112.35685	S	SCH	US		AZ	025			0	1595	1596	America/Phoenix	2010-02-06
+7241037	Franklin W Olin Building	Franklin W Olin Building		42.25722	-77.78694	S	BLDG	US		NY	003			0	534	533	America/New_York	2010-02-06
+7241911	Franklin Forest Elementary School	Franklin Forest Elementary School		33.07351	-85.03525	S	SCH	US		GA	285			0	226	230	America/New_York	2010-02-07
+7242033	Central Franklin Elementary School	Central Franklin Elementary School		34.39875	-83.19231	S	SCH	US		GA	119			0	211	214	America/New_York	2010-02-07
+7242047	Franklin County Middle School	Franklin County Middle School		34.39521	-83.19453	S	SCH	US		GA	119			0	215	217	America/New_York	2010-02-07
+7242130	Franklin Church of God Christian School	Franklin Church of God Christian School		33.29362	-85.11825	S	SCH	US		GA	149			0	251	248	America/New_York	2010-02-07
+7244416	New Franklin Fire Department Station 2	New Franklin Fire Department Station 2		40.97456	-81.63996	S	BLDG	US		OH	153			0	323	327	America/New_York	2010-02-07
+7244670	Franklin Township Fire Department Station 192	Franklin Township Fire Department Station 192		39.94234	-83.10953	S	BLDG	US		OH	049			0	266	264	America/New_York	2010-02-07
+7244744	Franklin Township Fire Department Station 193 Headquarters	Franklin Township Fire Department Station 193 Headquarters		39.92065	-83.06061	S	BLDG	US		OH	049			0	232	234	America/New_York	2010-02-07
+7244977	Franklin Township Fire and Rescue Services	Franklin Township Fire and Rescue Services		39.1991	-82.97625	S	BLDG	US		OH	141			0	220	224	America/New_York	2010-02-07
+7245150	Franklin Division of Fire	Franklin Division of Fire		39.55994	-84.30207	S	BLDG	US		OH	165			0	211	211	America/New_York	2010-02-07
+7245197	New Franklin Fire Department Station 1	New Franklin Fire Department Station 1		40.95262	-81.56672	S	BLDG	US		OH	153			0	351	350	America/New_York	2010-02-07
+7245358	Franklin Township Fire Department	Franklin Township Fire Department		40.49287	-84.54153	S	BLDG	US		OH	107			0	268	268	America/New_York	2010-02-07
+7245440	Franklin Conesville Virginia Volunteer Fire Department	Franklin Conesville Virginia Volunteer Fire Department		40.18446	-81.89556	S	BLDG	US		OH	031			0	228	230	America/New_York	2010-02-07
+7245503	Felicity - Franklin Fire Department	Felicity - Franklin Fire Department		38.84112	-84.0948	S	BLDG	US		OH	025			0	280	280	America/New_York	2010-02-07
+7245551	Franklin Township Fire Department	Franklin Township Fire Department		38.98786	-83.37783	S	BLDG	US		OH	001			0	242	247	America/New_York	2010-02-07
+7245554	Franklin Township Fire Department Station 19 Hunter	Franklin Township Fire Department Station 19 Hunter		39.49672	-84.27928	S	BLDG	US		OH	165			0	266	267	America/New_York	2010-02-07
+7245612	Franklin Township Fire Department Station 20 Twin Creek	Franklin Township Fire Department Station 20 Twin Creek		39.56887	-84.34509	S	BLDG	US		OH	165			0	207	207	America/New_York	2010-02-07
+7245730	Franklin Township Fire Department	Franklin Township Fire Department		40.86526	-82.53189	S	BLDG	US		OH	139			0	344	344	America/New_York	2010-02-07
+7245812	Franklin Township Fire and Rescue Station 2	Franklin Township Fire and Rescue Station 2		39.22516	-82.91377	S	BLDG	US		OH	141			0	188	195	America/New_York	2010-02-07
+7245828	Franklin Township Volunteer Fire Department	Franklin Township Volunteer Fire Department		40.67841	-80.88776	S	BLDG	US		OH	029			0	346	344	America/New_York	2010-02-07
+7246304	Felicity - Franklin Emergency Medical Services	Felicity - Franklin Emergency Medical Services		38.842	-84.10485	S	BLDG	US		OH	025			0	273	276	America/New_York	2010-02-07
+7248083	Franklinton Cemetery	Franklinton Cemetery		42.52028	-74.30944	S	CMTY	US		NY	095			0	379	391	America/New_York	2010-02-07
+7250783	Franklin Hall	Franklin Hall		44.43528	-74.25389	S	BLDG	US		NY	033			0	498	497	America/New_York	2010-02-07
+7251770	Franklin School (historical)	Franklin School (historical)		37.6925	-84.76551	S	SCH	US		KY	021			0	254	257	America/New_York	2010-02-07
+7255369	New Franklin High School	New Franklin High School		39.01837	-92.7434	S	SCH	US		MO	089			0	200	201	America/Chicago	2010-02-07
+7266543	Franklin Road Industrial Park	Franklin Road Industrial Park		39.76778	-86.02194	L	INDS	US		IN	097			0	260	262	America/Indiana/Indianapolis	2010-02-07
+7266626	Franklin Business Park	Franklin Business Park		42.86528	-87.98111	L	INDS	US		WI	079			0	223	225	America/Chicago	2010-02-07
+7266627	Franklin Industrial Park	Franklin Industrial Park		42.86889	-87.98667	L	INDS	US		WI	079			0	223	225	America/Chicago	2010-02-07
+7267810	Franklin Airport Industrial Park	Franklin Airport Industrial Park		36.6961	-76.89687	L	INDS	US		VA	093			0	11	12	America/New_York	2010-02-07
+7267876	Franklin Mills Mall	Franklin Mills Mall		40.0873	-74.9635	S	MALL	US		PA	101			0	29	35	America/New_York	2010-02-07
+7269739	Franklin Station (historical)	Franklin Station (historical)		47.14167	-88.56528	S		US		MI	061			0	349	344	America/Detroit	2013-03-08
+7270060	Franklin-Dean College Station	Franklin-Dean College Station		42.0827	-71.3969	S		US		MA	021			0	93	95	America/New_York	2013-03-08
+7273165	Franklin County Farm (historical)	Franklin County Farm (historical)		38.10486	-84.8869	S	FRMQ	US		KY	073			0	224	224	America/New_York	2011-12-12
+7274065	Franklin Bend	Franklin Bend		38.98389	-92.71639	H	STMB	US		MO	089			0	179	179	America/Chicago	2010-02-09
+7274067	Franklin Island Reach	Franklin Island Reach		38.97639	-92.67417	H	STMB	US		MO	089			0	174	178	America/Chicago	2010-02-09
+7274840	Franklin Square	Franklin Square		43.10167	-75.23139	S	SQR	US		NY	065			0	136	136	America/New_York	2010-02-12
+7275084	Franklin Square	Franklin Square		43.08194	-73.78889	S	SQR	US		NY	091			0	98	100	America/New_York	2010-02-12
+7275596	Franklin Road Business Center	Franklin Road Business Center		39.81472	-86.025	S		US		IN	097			0	263	269	America/Indiana/Indianapolis	2010-02-13
+7278320	Franklin Plaza	Franklin Plaza		36.67289	-76.94245	S		US		VA	620			0	9	15	America/New_York	2010-02-13
+7278920	Franklin County Childrens Home (historical)	Franklin County Childrens Home (historical)		38.10506	-84.88919	S		US		KY	073			0	239	236	America/New_York	2010-02-13
+7278921	Franklin County Poor House (historical)	Franklin County Poor House (historical)		38.16211	-84.94703	S		US		KY	073			0	218	220	America/New_York	2010-02-13
+7278945	Franklin Drive-In (historical)	Franklin Drive-In (historical)		44.86806	-74.24917	S		US		NY	033			0	238	236	America/New_York	2009-08-07
+7287736	Franklin Park Westfield Mall	Franklin Park Westfield Mall		41.69854	-83.64182	S	MALL	US		OH	095			0	191	193	America/New_York	2010-04-07
+7304926	Franklin Fire Department	Franklin Fire Department		31.02775	-96.48568	S	BLDG	US		TX	395			0	140	141	America/Chicago	2011-01-10
+7305825	Franklin Volunteer Fire Department	Franklin Volunteer Fire Department		44.58882	-68.23966	S	BLDG	US		ME	009			0	6	7	America/New_York	2011-01-10
+7306000	Franklin Heights Park	Franklin Heights Park		27.81944	-82.64972	L	PRK	US		FL	103			0	4	10	America/New_York	2011-01-10
+7306757	Franklin Communities Mobile Home Park	Franklin Communities Mobile Home Park		43.30972	-86.25944	P	PPL	US		MI	121			0	199	204	America/Detroit	2010-08-06
+7311699	Franklin Volunteer Fire Department	Franklin Volunteer Fire Department		38.64266	-79.32734	S	BLDG	US		WV	071			0	514	515	America/New_York	2011-01-10
+7311844	Franklin Community Volunteer Fire Department	Franklin Community Volunteer Fire Department		40.28042	-80.56014	S	BLDG	US		WV	009			0	377	369	America/New_York	2011-01-10
+7312774	Franklin Primary Health Center	Franklin Primary Health Center		30.69962	-88.06493	S	BLDG	US		AL	097			0	9	13	America/Chicago	2011-01-10
+7315293	East Franklin	East Franklin Census Designated Place		40.4933	-74.4711	P	PPL	US		NJ	035			0		30	America/New_York	2010-08-06
+7315295	Franklin Center	Franklin Center Census Designated Place		40.53153	-74.54141	P	PPL	US		NJ	035			0		32	America/New_York	2010-08-06
+7317537	Village of Franklin	Village of Franklin		42.51877	-83.30304	A	ADMD	US		MI	125			3150	242	244	America/Detroit	2013-03-08
+7317538	Village of Franklin Park	Village of Franklin Park		41.93601	-87.8792	A	ADMD	US		IL	031			18333	195	199	America/Chicago	2013-03-08
+7317687	City of Franklin	City of Franklin		35.92149	-86.85232	A	ADMD	US		TN	187			62487	204	204	America/Chicago	2013-03-08
+7317688	City of Franklin	City of Franklin		33.27923	-85.09799	A	ADMD	US		GA	149			993	208	208	America/New_York	2013-03-08
+7534002	Franklin Military Academy	Franklin Military Academy		37.52866	-77.40372	S	SCH	US		VA	760			0	44	48	America/New_York	2010-09-05
+7534078	Franklin Post Office	Franklin Post Office		42.08485	-71.39755	S	PO	US		MA	021			0	97	104	America/New_York	2010-09-05
+7603099	Franklin Square, Knoxville	Franklin Square, Knoxville		35.90603	-84.10968	S	SQR	US		TN	093			0		287	America/New_York	2010-11-30
+7703105	Pendleton County Emergency Rescue Franklin	Pendleton County Emergency Rescue Franklin		38.64266	-79.32734	S	BLDG	US		WV	071			0	514	515	America/New_York	2011-03-12
+7703586	Franklin Park	Franklin Park		42.81722	-83.71167	L	PRK	US		MI	049			0	269	268	America/Detroit	2011-03-12
+7703930	Franklin Cemetery	Franklin Cemetery		40.27506	-80.54514	S	CMTY	US		WV	009			0	372	370	America/New_York	2011-03-12
+7705094	Franklinville Elementary School	Franklinville Elementary School		42.34127	-78.45769	S	SCH	US		NY	009			0	484	484	America/New_York	2011-03-12
+7705105	Franklinville Junior - Senior High School	Franklinville Junior - Senior High School		42.3401	-78.45607	S	SCH	US		NY	009			0	486	490	America/New_York	2011-03-12
+7705131	Franklinville Free Methodist Church	Franklinville Free Methodist Church		42.33327	-78.45967	S	CH	US		NY	009			0	483	485	America/New_York	2011-03-12
+7706140	Franklinville Post Office	Franklinville Post Office		42.3361	-78.45789	S	PO	US		NY	009			0	485	491	America/New_York	2011-03-12
+7707343	West Franklin Emergency Medical Services Incorporated	West Franklin Emergency Medical Services Incorporated		42.76313	-93.36865	S	BLDG	US		IA	069			0	377	377	America/Chicago	2011-03-12
+7708042	Franklin Health Care Center	Franklin Health Care Center		29.79014	-91.52152	S	BLDG	US		LA	101			0	2	4	America/Chicago	2011-03-12
+7708056	Heritage Manor of Franklinton	Heritage Manor of Franklinton		30.83289	-90.15171	S	BLDG	US		LA	117			0	44	48	America/Chicago	2011-03-12
+7708767	Franklinton Country Club	Franklinton Country Club		30.82307	-90.11264	S	RSRT	US		LA	117			0	56	60	America/Chicago	2011-03-12
+7709392	Franklin United Methodist Church	Franklin United Methodist Church		29.79589	-91.50094	S	CH	US		LA	101			0	4	9	America/Chicago	2011-03-12
+7710671	Franklinton Town Hall	Franklinton Town Hall		30.85422	-90.15741	S	BLDG	US		LA	117			0	49	54	America/Chicago	2011-03-12
+7710721	Franklin Wastewater Treatment Facility	Franklin Wastewater Treatment Facility		29.80352	-91.51911	S	SWT	US		LA	101			0	3	4	America/Chicago	2011-03-12
+7710722	Franklinton Plant Number 1 Wastewater Treatment Plant	Franklinton Plant Number 1 Wastewater Treatment Plant		30.83274	-90.15636	S	SWT	US		LA	117			0	43	47	America/Chicago	2011-03-12
+7710977	Franklin Springs Volunteer Fire Department	Franklin Springs Volunteer Fire Department		34.28399	-83.15206	S	BLDG	US		GA	119			0	232	236	America/New_York	2011-03-12
+7711389	Franklin Fire Department	Franklin Fire Department		33.27954	-85.09937	S	BLDG	US		GA	149			0	212	208	America/New_York	2011-03-12
+7711739	Franklin Fire Department Station 5	Franklin Fire Department Station 5		33.34271	-84.98554	S	BLDG	US		GA	149			0	252	259	America/New_York	2011-03-12
+7712347	City of Franklin Fire Department	City of Franklin Fire Department		43.44415	-71.65173	S	BLDG	US		NH	013			0	88	90	America/New_York	2011-03-12
+7714420	Franklin Pierce Mobile Estates	Franklin Pierce Mobile Estates		47.15285	-122.4004	P	PPL	US		WA	053			0	129	126	America/Los_Angeles	2011-03-12
+7718688	Franklin Lakes Borough Fire Department Southside Station	Franklin Lakes Borough Fire Department Southside Station		40.9933	-74.2159	S	BLDG	US		NJ	003			0	130	135	America/New_York	2011-03-12
+7718725	Franklin Fire Department	Franklin Fire Department		41.12152	-74.58188	S	BLDG	US		NJ	037			0	188	188	America/New_York	2011-03-12
+7718759	Franklin Township Rescue Squad	Franklin Township Rescue Squad		40.7308	-75.05037	S	BLDG	US		NJ	041			0	105	104	America/New_York	2011-03-12
+7718970	Franklin Lakes Borough Fire Department Headquarters	Franklin Lakes Borough Fire Department Headquarters		41.02022	-74.20143	S	BLDG	US		NJ	003			0	121	126	America/New_York	2011-03-12
+7719193	Franklin Township District 1 Middlebush Volunteer Fire Department Station 44	Franklin Township District 1 Middlebush Volunteer Fire Department Station 44		40.4964	-74.53079	S	BLDG	US		NJ	035			0	35	37	America/New_York	2011-03-12
+7719198	Franklin Township Fire District 3 Community Volunteer Fire Company 1 Station 25	Franklin Township Fire District 3 Community Volunteer Fire Company 1 Station 25		40.49132	-74.47258	S	BLDG	US		NJ	035			0	30	31	America/New_York	2011-03-12
+7719227	Franklin Park Volunteer Fire Company Station 31	Franklin Park Volunteer Fire Company Station 31		40.43949	-74.53527	S	BLDG	US		NJ	035			0	40	42	America/New_York	2011-03-12
+7719256	Franklin Township Volunteer Fire Department	Franklin Township Volunteer Fire Department		40.72104	-75.07738	S	BLDG	US		NJ	041			0	122	125	America/New_York	2011-03-12
+7719364	East Franklin Township Volunteer Fire Department District 3 Station 27	East Franklin Township Volunteer Fire Department District 3 Station 27		40.49965	-74.47066	S	BLDG	US		NJ	035			0	19	20	America/New_York	2011-03-12
+7719507	Franklin County Fire Protection District	Franklin County Fire Protection District		42.09382	-111.87826	S	BLDG	US		ID	041			0	1436	1439	America/Boise	2011-03-12
+7719771	Franklin County Fire Protection District Station 2	Franklin County Fire Protection District Station 2		42.1239	-111.99356	S	BLDG	US		ID	041			0	1456	1455	America/Boise	2011-03-12
+7719977	Franklin County Fire District 2	Franklin County Fire District 2		46.64249	-118.55359	S	BLDG	US		WA	021			0	272	273	America/Los_Angeles	2011-03-12
+7720085	Franklin County Fire District 4 Station 2	Franklin County Fire District 4 Station 2		46.6058	-119.2617	S	BLDG	US		WA	021			0	291	290	America/Los_Angeles	2011-03-12
+7720182	Franklin County Fire District 3 Station 31	Franklin County Fire District 3 Station 31		46.28049	-118.95577	S	BLDG	US		WA	021			0	198	194	America/Los_Angeles	2011-03-12
+7720203	Franklin County Fire District 4 Station 3	Franklin County Fire District 4 Station 3		46.67537	-119.17615	S	BLDG	US		WA	021			0	287	281	America/Los_Angeles	2011-03-12
+7720460	Franklin - Bingham Fire Department	Franklin - Bingham Fire Department		42.52779	-83.30635	S	BLDG	US		MI	125			0	239	243	America/Detroit	2011-03-12
+7721461	New Franklin Fire Department Howard County Fire Protection District Station 2	New Franklin Fire Department Howard County Fire Protection District Station 2		39.02363	-92.74708	S	BLDG	US		MO	089			0	207	210	America/Chicago	2011-03-12
+7721817	Missouri Department of Conservation Forestry Central Regional Field Fire Office New Franklin	Missouri Department of Conservation Forestry Central Regional Field Fire Office New Franklin		39.01708	-92.75538	S	BLDG	US		MO	089			0	193	194	America/Chicago	2011-03-12
+7725079	Franklin County Health Department	Franklin County Health Department		38.59494	-95.27005	S	BLDG	US		KS	059			0	288	293	America/Chicago	2011-03-12
+7725262	Franklin County Courthouse	Franklin County Courthouse		38.61401	-95.26814	S	BLDG	US		KS	059			0	276	281	America/Chicago	2011-03-12
+7725349	Franklin County Office Annex	Franklin County Office Annex		38.59494	-95.27005	S	BLDG	US		KS	059			0	288	293	America/Chicago	2011-03-12
+7725650	Franklin Fire Department Station 1	Franklin Fire Department Station 1		39.49579	-86.06445	S	BLDG	US		IN	081			0	228	229	America/Indiana/Indianapolis	2011-03-13
+7725979	Franklin Fire Department Station 2	Franklin Fire Department Station 2		39.48928	-86.0438	S	BLDG	US		IN	081			0	223	225	America/Indiana/Indianapolis	2011-03-13
+7725989	Franklin Township Community Volunteer Fire Department	Franklin Township Community Volunteer Fire Department		39.20665	-86.87119	S	BLDG	US		IN	119			0	168	172	America/Indiana/Indianapolis	2011-03-13
+7726459	Franklin Township Fire Department Station 55	Franklin Township Fire Department Station 55		39.69642	-85.9793	S	BLDG	US		IN	097			0	248	249	America/Indiana/Indianapolis	2011-03-13
+7727138	Quincy - Franklin - Hancock Township Volunteer Fire Department	Quincy - Franklin - Hancock Township Volunteer Fire Department		47.139	-88.57318	S	BLDG	US		MI	061			0	359	358	America/Detroit	2011-03-13
+7727629	Franklin Valley Estates Mobile Home Park	Franklin Valley Estates Mobile Home Park		42.27333	-85.63194	P	PPL	US		MI	077			0	265	267	America/Detroit	2011-03-13
+7729285	Franklin Memorial Christian Church	Franklin Memorial Christian Church		39.50025	-86.05654	S	CH	US		IN	081			0	229	230	America/Indiana/Indianapolis	2011-03-13
+8050989	The John Hope Franklin Reconciliation Park	The John Hope Franklin Reconciliation Park		36.16068	-95.99004	L	PRK	US		OK	143			0		220	America/Chicago	2011-10-20
+8062787	Lakes at Franklin Mills	Lakes at Franklin Mills		41.16147	-81.37848	P	PPLX	US		OH	133			0		316	America/New_York	2011-11-10
+8081924	Franklin County Nursing Home	Franklin County Nursing Home		44.83693	-74.29958	S	BLDG	US		NY	033			0	269	266	America/New_York	2011-12-12
+8084415	Franklin Free Library	Franklin Free Library		42.33873	-75.16584	S	LIBR	US		NY	025			0	373	377	America/New_York	2011-12-12
+8084416	Franklin Square Public Library	Franklin Square Public Library		40.70719	-73.67043	S	LIBR	US		NY	059			0	16	18	America/New_York	2011-12-12
+8085013	Franklin Post Office	Franklin Post Office		42.34025	-75.16505	S	PO	US		NY	025			0	376	380	America/New_York	2011-12-12
+8085014	Franklin Square Station Post Office	Franklin Square Station Post Office		43.05747	-76.15977	S	PO	US		NY	067			0	114	117	America/New_York	2011-12-12
+8085659	Franklin Quarry	Franklin Quarry		41.09306	-74.60083	S	MN	US		NJ	037			0	226	206	America/New_York	2011-12-12
+8085698	Franklin Mine	Franklin Mine		35.90556	-84.86778	S	MN	US		TN	035			0	521	527	America/Chicago	2011-12-12
+8085915	Franklin Quarry	Franklin Quarry		42.91	-87.986	S	MN	US		WI	079			0	152	165	America/Chicago	2011-12-12
+8086246	Franklin Community Church	Franklin Community Church		39.49475	-86.019	S	CH	US		IN	081			0	227	228	America/Indiana/Indianapolis	2011-12-12
+8087815	Franklin County Fire Department Station 8 Industrial Park Station	Franklin County Fire Department Station 8 Industrial Park Station		38.17728	-84.79917	S	BLDG	US		KY	073			0	251	251	America/New_York	2011-12-12
+8088304	Franklin Simpson Fire Rescue	Franklin Simpson Fire Rescue		36.71674	-86.56512	S	BLDG	US		KY	213			0	213	211	America/Chicago	2011-12-12
+8088445	Franklin County Fire Department Station 5	Franklin County Fire Department Station 5		38.22965	-84.79037	S	BLDG	US		KY	073			0	212	211	America/New_York	2011-12-12
+8088446	Franklin County Fire Department Station 7	Franklin County Fire Department Station 7		38.27975	-84.84648	S	BLDG	US		KY	073			0	234	234	America/New_York	2011-12-12
+8088447	Franklin County Fire Department Station 6	Franklin County Fire Department Station 6		38.27291	-84.93763	S	BLDG	US		KY	073			0	269	262	America/New_York	2011-12-12
+8088448	Franklin County Fire Department Station 9	Franklin County Fire Department Station 9		38.13801	-84.9389	S	BLDG	US		KY	073			0	243	242	America/New_York	2011-12-12
+8089545	Franklin Fire Protection District	Franklin Fire Protection District		39.62169	-90.04612	S	BLDG	US		IL	137			0	210	210	America/Chicago	2011-12-12
+8089546	Franklin Grove Fire Department	Franklin Grove Fire Department		41.84119	-89.29844	S	BLDG	US		IL	103			0	245	252	America/Chicago	2011-12-12
+8090896	Franklin County Fire District 3 Station 34 Main	Franklin County Fire District 3 Station 34 Main		46.24752	-119.20156	S	BLDG	US		WA	021			0	111	108	America/Los_Angeles	2011-12-12
+8090899	Franklin County Public Hospital District 1 Ambulance Service	Franklin County Public Hospital District 1 Ambulance Service		46.59047	-119.1419	S	BLDG	US		WA	021			0	230	227	America/Los_Angeles	2011-12-12
+8090900	Franklin County Fire District 3 Station 36	Franklin County Fire District 3 Station 36		46.29901	-119.13589	S	BLDG	US		WA	021			0	136	133	America/Los_Angeles	2011-12-12
+8090920	Franklin County Public Hospital District 1 Ambulance Service	Franklin County Public Hospital District 1 Ambulance Service		46.57794	-119.00522	S	BLDG	US		WA	021			0	213	210	America/Los_Angeles	2011-12-12
+8090921	Franklin County Public Hospital District 1 Ambulance Service	Franklin County Public Hospital District 1 Ambulance Service		46.45742	-119.11236	S	BLDG	US		WA	021			0	262	259	America/Los_Angeles	2011-12-12
+8090922	Franklin County Fire District 3 Station 33	Franklin County Fire District 3 Station 33		46.32899	-119.22512	S	BLDG	US		WA	021			0	156	155	America/Los_Angeles	2011-12-12
+8090923	Franklin County Fire District 3 Station 35	Franklin County Fire District 3 Station 35		46.3346	-119.05128	S	BLDG	US		WA	021			0	198	199	America/Los_Angeles	2011-12-12
+8091358	Franklin County Fire District 3 Station 32	Franklin County Fire District 3 Station 32		46.2392	-119.1544	S	BLDG	US		WA	021			0	111	109	America/Los_Angeles	2011-12-12
+8092189	New Franklin Volunteer Fire Department	New Franklin Volunteer Fire Department		39.8801	-77.63533	S	BLDG	US		PA	055			0	228	226	America/New_York	2011-12-13
+8092195	South Franklin Volunteer Fire Department Station 32	South Franklin Volunteer Fire Department Station 32		40.12264	-80.29142	S	BLDG	US		PA	125			0	327	333	America/New_York	2011-12-13
+8092522	Franklin Fire Department	Franklin Fire Department		41.40018	-79.83061	S	BLDG	US		PA	121			0	306	308	America/New_York	2011-12-13
+8092731	Franklin Fire Company Station 4	Franklin Fire Company Station 4		39.93927	-77.66464	S	BLDG	US		PA	055			0	186	188	America/New_York	2011-12-13
+8092783	Franklin Volunteer Fire Company	Franklin Volunteer Fire Company		40.34301	-78.88419	S	BLDG	US		PA	021			0	381	379	America/New_York	2011-12-13
+8092876	North Franklin Volunteer Fire Company Station 43 Main Station	North Franklin Volunteer Fire Company Station 43 Main Station		40.15255	-80.27089	S	BLDG	US		PA	125			0	317	316	America/New_York	2011-12-13
+8092881	North Franklin Volunteer Fire Company Station 432 Substation	North Franklin Volunteer Fire Company Station 432 Substation		40.14982	-80.23313	S	BLDG	US		PA	125			0	415	411	America/New_York	2011-12-13
+8092882	North Franklin Volunteer Fire Company Station 431 Substation	North Franklin Volunteer Fire Company Station 431 Substation		40.15212	-80.29231	S	BLDG	US		PA	125			0	391	385	America/New_York	2011-12-13
+8092899	Waynesburg Franklin Township Volunteer Fire Company	Waynesburg Franklin Township Volunteer Fire Company		39.89039	-80.14197	S	BLDG	US		PA	059			0	315	314	America/New_York	2011-12-13
+8092919	East Franklin Township Volunteer Fire Department	East Franklin Township Volunteer Fire Department		40.82591	-79.53932	S	BLDG	US		PA	005			0	349	349	America/New_York	2011-12-13
+8092922	Waynesburg Franklin Township Volunteer Fire Company	Waynesburg Franklin Township Volunteer Fire Company		39.89501	-80.18503	S	BLDG	US		PA	059			0	301	300	America/New_York	2011-12-13
+8093082	Prospect Borough - Franklin Township Volunteer Fire Department	Prospect Borough - Franklin Township Volunteer Fire Department		40.90479	-80.0453	S	BLDG	US		PA	019			0	418	419	America/New_York	2011-12-13
+8093168	Franklin Park Volunteer Fire Company 1 Station 158	Franklin Park Volunteer Fire Company 1 Station 158		40.58165	-80.08498	S	BLDG	US		PA	003			0	373	373	America/New_York	2011-12-13
+8093225	Franklin Township Volunteer Fire Department Station 70 - 1	Franklin Township Volunteer Fire Department Station 70 - 1		40.84828	-80.26957	S	BLDG	US		PA	007			0	280	283	America/New_York	2011-12-13
+8093226	Franklin Township Volunteer Fire Department Station 70 - 2	Franklin Township Volunteer Fire Department Station 70 - 2		40.83499	-80.20514	S	BLDG	US		PA	007			0	362	362	America/New_York	2011-12-13
+8093335	Franklin Township Volunteer Fire Department	Franklin Township Volunteer Fire Department		41.91948	-80.22369	S	BLDG	US		PA	049			0	378	380	America/New_York	2011-12-13
+8093356	Worthington - West Franklin Volunteer Fire Department	Worthington - West Franklin Volunteer Fire Department		40.83664	-79.62975	S	BLDG	US		PA	005			0	338	339	America/New_York	2011-12-13
+8095156	Franklin Boulevard Historic District Historical Marker	Franklin Boulevard Historic District Historical Marker		42.637	-83.30237	L	PRK	US		MI	125			0	291	294	America/Detroit	2011-12-13
+8095157	Franklin Village Historical Marker	Franklin Village Historical Marker		42.52581	-83.30699	L	PRK	US		MI	125			0	237	245	America/Detroit	2011-12-13
+8095158	Franklin Village School Historical Marker	Franklin Village School Historical Marker		42.5237	-83.30586	L	PRK	US		MI	125			0	249	259	America/Detroit	2011-12-13
+8095603	Franklin Road Christian School	Franklin Road Christian School		42.51231	-83.45041	S	SCH	US		MI	125			0	292	291	America/Detroit	2011-12-13
+8095647	Franklin Cemetery	Franklin Cemetery		42.52278	-83.30694	S	CMTY	US		MI	125			0	256	259	America/Detroit	2011-12-13
+8095742	Franklin Community Park	Franklin Community Park		42.52472	-83.30778	L	PRK	US		MI	125			0	237	241	America/Detroit	2011-12-13
+8097540	Franklin Fire Department Station 6	Franklin Fire Department Station 6		35.93459	-86.79503	S	BLDG	US		TN	187			0	250	249	America/Chicago	2011-12-13
+8097762	Franklin Fire Department Station 5	Franklin Fire Department Station 5		35.8948	-86.86736	S	BLDG	US		TN	187			0	214	218	America/Chicago	2011-12-13
+8097763	Franklin Fire Department Station 4	Franklin Fire Department Station 4		35.96302	-86.88323	S	BLDG	US		TN	187			0	189	190	America/Chicago	2011-12-13
+8097764	Franklin Fire Department Station 3	Franklin Fire Department Station 3		35.95575	-86.82653	S	BLDG	US		TN	187			0	220	218	America/Chicago	2011-12-13
+8097765	Franklin Fire Department Station 2	Franklin Fire Department Station 2		35.91731	-86.84246	S	BLDG	US		TN	187			0	220	220	America/Chicago	2011-12-13
+8098210	North Franklin County Volunteer Fire Department	North Franklin County Volunteer Fire Department		35.30074	-86.22754	S	BLDG	US		TN	051			0	328	328	America/Chicago	2011-12-13
+8098324	Franklin County 4th District Volunteer Fire Department	Franklin County 4th District Volunteer Fire Department		35.12293	-86.06334	S	BLDG	US		TN	051			0	293	291	America/Chicago	2011-12-13
+8098376	Tennessee Department of Agriculture Division of Forestry Franklin District	Tennessee Department of Agriculture Division of Forestry Franklin District		35.21998	-85.88794	S	BLDG	US		TN	051			0	617	623	America/Chicago	2011-12-13
+8098788	Franklin Memorial Hospital	Franklin Memorial Hospital		44.6265	-70.16293	S	HSP	US		ME	007			0	127	129	America/New_York	2011-12-13
+8101467	Franklin Pierce University Emergency Medical Technician Squad	Franklin Pierce University Emergency Medical Technician Squad		42.77934	-72.05698	S	BLDG	US		NH	005			0	329	324	America/New_York	2011-12-13
+8101760	Franklin Fire Department Station 1 Headquarters	Franklin Fire Department Station 1 Headquarters		42.0826	-71.39929	S	BLDG	US		MA	021			0	93	97	America/New_York	2011-12-13
+8102212	Franklin Fire Department Station 2	Franklin Fire Department Station 2		42.06215	-71.40351	S	BLDG	US		MA	021			0	104	105	America/New_York	2011-12-13
+8102597	Franklin Lakes Ambulance Corps	Franklin Lakes Ambulance Corps		41.02036	-74.20174	S	BLDG	US		NJ	003			0	121	126	America/New_York	2011-12-13
+8102653	Township of Franklin Ambulance Corps	Township of Franklin Ambulance Corps		39.61651	-75.07488	S	BLDG	US		NJ	015			0	30	34	America/New_York	2011-12-13
+8102746	Franklin - Somerset First Aid Squad	Franklin - Somerset First Aid Squad		40.49898	-74.48347	S	BLDG	US		NJ	035			0	34	33	America/New_York	2011-12-13
+8102930	Medical Center of Franklin	Medical Center of Franklin		36.69995	-86.57686	S	HSP	US		KY	213			0	227	225	America/Chicago	2011-12-13
+8104082	Weems Memorial Hospital Ambulance Service Franklin County	Weems Memorial Hospital Ambulance Service Franklin County		29.73666	-84.89035	S	BLDG	US		FL	037			0	5	11	America/New_York	2011-12-13
+8104083	Weems Memorial Hospital Ambulance Service Franklin County	Weems Memorial Hospital Ambulance Service Franklin County		29.88468	-84.59743	S	BLDG	US		FL	037			0	8	14	America/New_York	2011-12-13
+8107639	Bioscience and Health Care High School - Franklin	Bioscience and Health Care High School - Franklin		43.18795	-77.59805	S	SCH	US		NY	055			0	143	145	America/New_York	2011-12-13
+8107640	Global Media Arts High School - Franklin	Global Media Arts High School - Franklin		43.18788	-77.59806	S	SCH	US		NY	055			0	143	146	America/New_York	2011-12-13
+8108045	Forts Lake - Franklin Creek Volunteer Fire Department Station 2	Forts Lake - Franklin Creek Volunteer Fire Department Station 2		30.41655	-88.45938	S	BLDG	US		MS	059			0	2	6	America/Chicago	2011-12-13
+8108071	East Franklin Rural Volunteer Fire Department	East Franklin Rural Volunteer Fire Department		31.51242	-90.69693	S	BLDG	US		MS	037			0	0	92	America/Chicago	2011-12-13
+8108594	Franklin Central School	Franklin Central School		42.33856	-75.16794	S	SCH	US		NY	025			0	372	371	America/New_York	2011-12-13
+8108812	Franklin Correctional Facility	Franklin Correctional Facility		44.86845	-74.31352	S	BLDG	US		NY	033			0	210	203	America/New_York	2011-12-13
+8112386	NorthStar Emergency Medical Services Franklin	NorthStar Emergency Medical Services Franklin		34.49071	-87.7269	S	BLDG	US		AL	059			0	231	244	America/Chicago	2011-12-13
+8114805	Franklin County Sanitary Landfill	Franklin County Sanitary Landfill		39.83639	-83.10639	S	LNDF	US		OH	049			0	299	280	America/New_York	2011-12-13
+8116121	Franklin Park Fire Department Station 2	Franklin Park Fire Department Station 2		41.94359	-87.87589	S	BLDG	US		IL	031			0	196	198	America/Chicago	2011-12-13
+8116670	Franklin Park Fire Department Station 1	Franklin Park Fire Department Station 1		41.93566	-87.86876	S	BLDG	US		IL	031			0	196	198	America/Chicago	2011-12-13
+8116671	Franklin Park Fire Department Station 3	Franklin Park Fire Department Station 3		41.93327	-87.85164	S	BLDG	US		IL	031			0	192	192	America/Chicago	2011-12-13
+8116973	East Franklin Volunteer Fire Department	East Franklin Volunteer Fire Department		34.39282	-87.59178	S	BLDG	US		AL	059			0	323	323	America/Chicago	2011-12-13
+8120656	Franklin Volunteer Fire Department	Franklin Volunteer Fire Department		31.70003	-87.40084	S	BLDG	US		AL	099			0	103	105	America/Chicago	2011-12-13
+8120690	Franklin Volunteer Fire Department	Franklin Volunteer Fire Department		32.46677	-85.80533	S	BLDG	US		AL	087			0	104	110	America/Chicago	2011-12-13
+8121182	Franklin Business Park	Franklin Business Park		38.93984	-95.21893	L	INDS	US		KS	045			0	271	273	America/Chicago	2011-12-13
+8121466	Franklin County Convention and Visitors Bureau	Franklin County Convention and Visitors Bureau		38.62373	-95.24175	S	BLDG	US		KS	059			0	287	289	America/Chicago	2011-12-13
+8124449	Franklin Towers	Franklin Towers		41.07694	-73.86278	S	BLDG	US		NY	119			0	16	21	America/New_York	2011-12-13
+8258005	Franklin County Ambulance Service Station 1	Franklin County Ambulance Service Station 1		38.59614	-95.26647	S	BLDG	US		KS	059			0	288	291	America/Chicago	2012-04-10
+8478303	Franklin Mine	Franklin Mine		33.51722	-87.06556	S	MN	US		AL	073			0	159	161	America/Chicago	2012-12-31
+8478308	Franklin Eddy Canal	Franklin Eddy Canal		37.66828	-105.7377	H	CNL	US		CO	003			0	2296	2298	America/Denver	2012-10-01
+8479822	Franklin Center	Franklin Center		36.99854	-79.89218	S	SCH	US		VA	067			0	350	348	America/New_York	2010-09-15
+8480227	Franklinville Fire Department Station 22	Franklinville Fire Department Station 22		35.79817	-79.6428	S	BLDG	US		NC	151			0	189	187	America/New_York	2013-03-08
+8480340	Franklin Community Volunteer Fire Department Station 1	Franklin Community Volunteer Fire Department Station 1		36.50165	-80.63445	S	BLDG	US		NC	171			0	343	341	America/New_York	2013-03-08
+8480396	Franklinton Fire Department	Franklinton Fire Department		36.10359	-78.45862	S	BLDG	US		NC	069			0	131	130	America/New_York	2013-03-08
+8480456	Franklinville Fire Department Station 8	Franklinville Fire Department Station 8		35.74444	-79.69332	S	BLDG	US		NC	151			0	147	146	America/New_York	2013-03-08
+8480512	Franklin Fire and Rescue Department	Franklin Fire and Rescue Department		35.17854	-83.38757	S	BLDG	US		NC	113			0	622	624	America/New_York	2013-03-08
+8481068	Franklin Community Volunteer Fire Department Station 2	Franklin Community Volunteer Fire Department Station 2		36.5434	-80.63954	S	BLDG	US		NC	171			0	391	387	America/New_York	2013-03-08
+8481746	Franklin Township Volunteer Fire Department Station 55	Franklin Township Volunteer Fire Department Station 55		35.72045	-80.49828	S	BLDG	US		NC	159			0	241	242	America/New_York	2013-03-08
+8481766	Franklin Township Volunteer Fire Department Station 56	Franklin Township Volunteer Fire Department Station 56		35.71154	-80.56066	S	BLDG	US		NC	159			0	242	250	America/New_York	2013-03-08
+8482012	Franklin Township Volunteer Fire Department	Franklin Township Volunteer Fire Department		41.70294	-76.55463	S	BLDG	US		PA	015			0	272	278	America/New_York	2013-03-08
+8482110	Franklintown Community Fire Company	Franklintown Community Fire Company		40.07327	-77.02814	S	BLDG	US		PA	133			0	218	224	America/New_York	2013-03-08
+8482197	Franklin Township Volunteer Fire Company Number 1	Franklin Township Volunteer Fire Company Number 1		40.85177	-75.66108	S	BLDG	US		PA	025			0	197	196	America/New_York	2013-03-08
+8482333	Franklin Hose Company 2	Franklin Hose Company 2		41.26443	-75.90569	S	BLDG	US		PA	079			0	164	165	America/New_York	2013-03-08
+8482682	Franklin Township Volunteer Fire Company	Franklin Township Volunteer Fire Company		41.38952	-75.89616	S	BLDG	US		PA	079			0	375	373	America/New_York	2013-03-08
+8482930	South Franklin Volunteer Fire Department Station 1	South Franklin Volunteer Fire Department Station 1		33.0142	-95.18351	S	BLDG	US		TX	159			0	137	140	America/Chicago	2013-03-08
+8483030	South Franklin County Volunteer Fire Department	South Franklin County Volunteer Fire Department		33.04107	-95.21482	S	BLDG	US		TX	159			0	143	149	America/Chicago	2013-03-08
+8483309	North Franklin County Volunteer Fire Department	North Franklin County Volunteer Fire Department		33.34063	-95.24911	S	BLDG	US		TX	159			0	116	119	America/Chicago	2013-03-08
+8483310	South Franklin Volunteer Fire Department Station 2	South Franklin Volunteer Fire Department Station 2		33.04166	-95.21489	S	BLDG	US		TX	159			0	143	148	America/Chicago	2013-03-08
+8484511	Grundy EMS Franklin County	Grundy EMS Franklin County		35.2074	-85.91338	S	BLDG	US		TN	051			0	588	589	America/Chicago	2013-03-08
+8484558	Trans Med Ambulance Franklin County	Trans Med Ambulance Franklin County		35.28418	-86.14001	S	BLDG	US		TN	051			0	299	299	America/Chicago	2013-03-08
+8484905	Franklin Volunteer Fire Department	Franklin Volunteer Fire Department		43.83582	-87.90235	S	BLDG	US		WI	117			0	244	247	America/Chicago	2013-03-08
+8485144	Franklin Fire Department Station 1	Franklin Fire Department Station 1		42.90111	-88.02575	S	BLDG	US		WI	079			0	237	238	America/Chicago	2013-03-08
+8485232	Franklin Fire Department Station 2	Franklin Fire Department Station 2		42.86448	-87.99131	S	BLDG	US		WI	079			0	216	217	America/Chicago	2013-03-08
+8485235	Franklin Fire Department Station 3	Franklin Fire Department Station 3		42.90114	-87.97562	S	BLDG	US		WI	079			0	220	222	America/Chicago	2013-03-08
+8487191	Franklinville Fire Department	Franklinville Fire Department		42.34298	-78.45551	S	BLDG	US		NY	009			0	485	484	America/New_York	2013-03-08
+8487703	Franklin Technology Center	Franklin Technology Center		37.06776	-94.5081	S	SCH	US		MO	097			0	309	312	America/Chicago	2013-03-08
+8489483	Benjamin Franklin Science Academy	Benjamin Franklin Science Academy		35.75047	-95.43939	S	SCH	US		OK	101			0	193	198	America/Chicago	2013-03-08
+8492409	Franklin Square and Munson Fire Department	Franklin Square and Munson Fire Department		40.70615	-73.671	S	BLDG	US		NY	059			0	16	16	America/New_York	2013-03-08
+8493127	Franklin Key to Learning Charter School	Franklin Key to Learning Charter School		44.01235	-88.57125	S	SCH	US		WI	139			0	232	234	America/Chicago	2013-03-08
+8493960	Franklin Fire Department Fire House	Franklin Fire Department Fire House		42.33906	-75.16648	S	BLDG	US		NY	025			0	373	376	America/New_York	2013-03-08
+8494456	Franklin - Simpson County Ambulance Service	Franklin - Simpson County Ambulance Service		36.70026	-86.57796	S	BLDG	US		KY	213			0	226	223	America/Chicago	2013-03-08
+8494575	Franklin County Emergency Medical Services Station 4	Franklin County Emergency Medical Services Station 4		39.30973	-84.90104	S	BLDG	US		IN	047			0	186	188	America/Indiana/Indianapolis	2013-03-08
+8494697	Franklin County Emergency Medical Services Station 3	Franklin County Emergency Medical Services Station 3		39.50069	-85.18571	S	BLDG	US		IN	047			0	222	223	America/Indiana/Indianapolis	2013-03-08
+8494708	Franklin County Emergency Medical Services Station 2	Franklin County Emergency Medical Services Station 2		39.42126	-85.00935	S	BLDG	US		IN	047			0	193	194	America/Indiana/Indianapolis	2013-03-08
+8494709	Franklin County Emergency Medical Services Station 1	Franklin County Emergency Medical Services Station 1		39.3391	-84.83752	S	BLDG	US		IN	047			0	281	282	America/Indiana/Indianapolis	2013-03-08
+8494947	McCandless - Franklin Park Ambulance Authority	McCandless - Franklin Park Ambulance Authority		40.59101	-80.01743	S	BLDG	US		PA	003			0	301	299	America/New_York	2013-03-08
+8495675	Macon County Emergency Medical Services - Franklin Station	Macon County Emergency Medical Services - Franklin Station		35.18205	-83.37926	S	BLDG	US		NC	113			0	641	638	America/New_York	2013-03-09
+8495782	Franklin County Emergency Medical Squad	Franklin County Emergency Medical Squad		36.08589	-78.33033	S	BLDG	US		NC	069			0	103	104	America/New_York	2013-03-09
+8497038	Franklin County Sheriff's Office	Franklin County Sheriff's Office		46.23685	-119.09624	S	BLDG	US		WA	021			0	118	119	America/Los_Angeles	2013-03-09
+8497242	Franklin Northmoreland Township Ambulance	Franklin Northmoreland Township Ambulance		41.38951	-75.89616	S	BLDG	US		PA	079			0	375	373	America/New_York	2013-03-09
+8497406	Franklin County Sheriff's Office	Franklin County Sheriff's Office		42.09591	-111.87813	S	BLDG	US		ID	041			0	1437	1441	America/Boise	2013-03-09
+8499627	Franklin Family Farms	Franklin Family Farms		40.005	-76.26222	S	FRM	US		PA	071			0	116	118	America/New_York	2013-03-09
+8503888	Franklin Runyon Sousley Historical Marker	Franklin Runyon Sousley Historical Marker		38.41577	-83.82679	L	PRK	US		KY	069			0	284	284	America/New_York	2013-03-09
